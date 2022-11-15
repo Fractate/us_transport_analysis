@@ -1,1 +1,14 @@
 
+.gitignore
+acs_population_data/2007-3yr-1.csv
+acs_population_data/2007-3yr-2.csv
+acs_population_data/2007-3yr-3.csv
+acs_population_data/2009-5yr-1.csv
+acs_population_data/2009-5yr-2.csv
+acs_population_data/2009-5yr-3.csv
+acs_population_data/2019-5yr-1.csv
+acs_population_data/2019-5yr-2.csv
+acs_population_data/2019-5yr-3.csv
+acs_population_data/df_2007.csv
+acs_population_data/df_2009.csv
+acs_population_data/df_2019.csv
