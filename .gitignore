@@ -12,3 +12,14 @@ acs_population_data/2019-5yr-3.csv
 acs_population_data/df_2007.csv
 acs_population_data/df_2009.csv
 acs_population_data/df_2019.csv
+brfss_cdc_data/clean_2014_notebook.ipynb
+brfss_cdc_data/CDBRFS07.XPT
+brfss_cdc_data/CDBRFS09.ASC
+brfss_cdc_data/CDBRFS09.XPT
+brfss_cdc_data/LLCP2019.ASC
+brfss_cdc_data/CNTY07.xpt
+brfss_cdc_data/CNTY09.xpt
+brfss_cdc_data/MMSA2019.xpt
+brfss_cdc_data/LLCP2019.XPT
+# brfss_cdc_data/.ipynb_checkpoints/sas2csv-checkpoint.R
+*/.ipynb_checkpoints/
