@@ -12,6 +12,10 @@ https://www2.census.gov/acs2005_2009_5yr/summaryfile/ACS2009_5-Year_TableShells.
 https://www.census.gov/programs-surveys/acs/technical-documentation/table-shells/2019.html
 https://www2.census.gov/programs-surveys/acs/summary_file/2019/documentation/user_tools/ACS2019_Table_Shells.xlsx
 
+#
+MEANS OF TRANSPORTATION TO WORK BY VEHICLES AVAILABLE B08141
+
+
 # Variable categories I might be interested in 
 Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined,ACS09_5yr_B05010001
 % Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined: Under 1.00,PCT_ACS09_5yr_B05010002
