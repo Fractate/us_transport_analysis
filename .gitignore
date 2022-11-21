@@ -23,3 +23,4 @@ brfss_cdc_data/MMSA2019.xpt
 brfss_cdc_data/LLCP2019.XPT
 # brfss_cdc_data/.ipynb_checkpoints/sas2csv-checkpoint.R
 */.ipynb_checkpoints/
+.ipynb_checkpoints/
