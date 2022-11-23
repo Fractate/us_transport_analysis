@@ -4,7 +4,7 @@ acs_population_data/2007-3yr-1.csv
 acs_population_data/2007-3yr-2.csv
 acs_population_data/2007-3yr-3.csv
 acs_population_data/2009-5yr-1.csv
-acs_population_data/2009-5yr-2.csv
+acs_population_data/x2009-5yr-2.csv
 acs_population_data/2009-5yr-3.csv
 acs_population_data/2019-5yr-1.csv
 acs_population_data/2019-5yr-2.csv
@@ -25,3 +25,15 @@ brfss_cdc_data/LLCP2019.XPT
 */.ipynb_checkpoints/
 .ipynb_checkpoints/
 ~$df_2009.xlsx
+~$df_2014_filtered_by_zero_check_per_total_workers.xlsx
+brfss_cdc_data/unused_data/CDBRFS07.XPT
+brfss_cdc_data/unused_data/CDBRFS09.XPT
+brfss_cdc_data/unused_data/CNTY07.xpt
+brfss_cdc_data/unused_data/CNTY09.xpt
+brfss_cdc_data/unused_data/MMSA2019.xpt
+brfss_cdc_data/LLCP2014.csv
+brfss_cdc_data/LLCP2014.XPT
+brfss_cdc_data/LLCP2019.csv
+brfss_cdc_data/MMSA2014.csv
+brfss_cdc_data/MMSA2014.xpt
+brfss_cdc_data/MMSA2019.csv
