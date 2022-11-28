@@ -1,0 +1,617 @@
+﻿FIPS,Geo_FIPS
+Name of Area,Geo_NAME
+Qualifying Name,Geo_QName
+State/U.S.-Abbreviation (USPS),Geo_STUSAB
+Summary Level,Geo_SUMLEV
+Geographic Component,Geo_GEOCOMP
+File Identification,Geo_FILEID
+Logical Record Number,Geo_LOGRECNO
+US,Geo_US
+Region,Geo_REGION
+Division,Geo_DIVISION
+State (Census Code),Geo_STATECE
+State (FIPS),Geo_STATE
+County,Geo_COUNTY
+County Subdivision (FIPS),Geo_COUSUB
+Place (FIPS Code),Geo_PLACE
+Place (State FIPS + Place FIPS),Geo_PLACESE
+Census Tract,Geo_TRACT
+Block Group,Geo_BLKGRP
+Consolidated City,Geo_CONCIT
+American Indian Area/Alaska Native Area/Hawaiian Home Land (Census),Geo_AIANHH
+American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS),Geo_AIANHHFP
+American Indian Trust Land/Hawaiian Home Land Indicator,Geo_AIHHTLI
+American Indian Tribal Subdivision (Census),Geo_AITSCE
+American Indian Tribal Subdivision (FIPS),Geo_AITS
+Alaska Native Regional Corporation (FIPS),Geo_ANRC
+Metropolitan and Micropolitan Statistical Area,Geo_CBSA
+Combined Statistical Area,Geo_CSA
+Metropolitan Division,Geo_METDIV
+Metropolitan Area Central City,Geo_MACC
+Metropolitan/Micropolitan Indicator Flag,Geo_MEMI
+New England City and Town Combined Statistical Area,Geo_NECTA
+New England City and Town Area,Geo_CNECTA
+New England City and Town Area Division,Geo_NECTADIV
+Urban Area,Geo_UA
+Urban Area Central Place,Geo_UACP
+Current Congressional District ***,Geo_CDCURR
+State Legislative District Upper,Geo_SLDU
+State Legislative District Lower,Geo_SLDL
+Voting District,Geo_VTD
+ZIP Code Tabulation Area (3-digit),Geo_ZCTA3
+ZIP Code Tabulation Area (5-digit),Geo_ZCTA5
+Subbarrio (FIPS),Geo_SUBMCD
+School District (Elementary),Geo_SDELM
+School District (Secondary),Geo_SDSEC
+School District (Unified),Geo_SDUNI
+Urban/Rural,Geo_UR
+Principal City Indicator,Geo_PCI
+Traffic Analysis Zone,Geo_TAZ
+Urban Growth Area,Geo_UGA
+Public Use Microdata Area - 5% File,Geo_PUMA5
+Public Use Microdata Area - 1% File,Geo_PUMA1
+Geographic Identifier,Geo_GEOID
+Area (Land),Geo_AREALAND
+Area (Water),Geo_AREAWATR
+Total Population,ACS09_5yr_B01001001
+Male,ACS09_5yr_B01001002
+Male: Under 5 Years,ACS09_5yr_B01001003
+Male: 5 to 9 Years,ACS09_5yr_B01001004
+Male: 10 to 14 Years,ACS09_5yr_B01001005
+Male: 15 to 17 Years,ACS09_5yr_B01001006
+Male: 18 and 19 Years,ACS09_5yr_B01001007
+Male: 20 Years,ACS09_5yr_B01001008
+Male: 21 Years,ACS09_5yr_B01001009
+Male: 22 to 24 Years,ACS09_5yr_B01001010
+Male: 25 to 29 Years,ACS09_5yr_B01001011
+Male: 30 to 34 Years,ACS09_5yr_B01001012
+Male: 35 to 39 Years,ACS09_5yr_B01001013
+Male: 40 to 44 Years,ACS09_5yr_B01001014
+Male: 45 to 49 Years,ACS09_5yr_B01001015
+Male: 50 to 54 Years,ACS09_5yr_B01001016
+Male: 55 to 59 Years,ACS09_5yr_B01001017
+Male: 60 and 61 Years,ACS09_5yr_B01001018
+Male: 62 to 64 Years,ACS09_5yr_B01001019
+Male: 65 and 66 Years,ACS09_5yr_B01001020
+Male: 67 to 69 Years,ACS09_5yr_B01001021
+Male: 70 to 74 Years,ACS09_5yr_B01001022
+Male: 75 to 79 Years,ACS09_5yr_B01001023
+Male: 80 to 84 Years,ACS09_5yr_B01001024
+Male: 85 Years and Over,ACS09_5yr_B01001025
+Female,ACS09_5yr_B01001026
+Female: Under 5 Years,ACS09_5yr_B01001027
+Female: 5 to 9 Years,ACS09_5yr_B01001028
+Female: 10 to 14 Years,ACS09_5yr_B01001029
+Female: 15 to 17 Years,ACS09_5yr_B01001030
+Female: 18 and 19 Years,ACS09_5yr_B01001031
+Female: 20 Years,ACS09_5yr_B01001032
+Female: 21 Years,ACS09_5yr_B01001033
+Female: 22 to 24 Years,ACS09_5yr_B01001034
+Female: 25 to 29 Years,ACS09_5yr_B01001035
+Female: 30 to 34 Years,ACS09_5yr_B01001036
+Female: 35 to 39 Years,ACS09_5yr_B01001037
+Female: 40 to 44 Years,ACS09_5yr_B01001038
+Female: 45 to 49 Years,ACS09_5yr_B01001039
+Female: 50 to 54 Years,ACS09_5yr_B01001040
+Female: 55 to 59 Years,ACS09_5yr_B01001041
+Female: 60 and 61 Years,ACS09_5yr_B01001042
+Female: 62 to 64 Years,ACS09_5yr_B01001043
+Female: 65 and 66 Years,ACS09_5yr_B01001044
+Female: 67 to 69 Years,ACS09_5yr_B01001045
+Female: 70 to 74 Years,ACS09_5yr_B01001046
+Female: 75 to 79 Years,ACS09_5yr_B01001047
+Female: 80 to 84 Years,ACS09_5yr_B01001048
+Female: 85 Years and Over,ACS09_5yr_B01001049
+Std. Error: Total Population,ACS09_5yr_B01001001s
+Std. Error: Male,ACS09_5yr_B01001002s
+Std. Error: Male: Under 5 Years,ACS09_5yr_B01001003s
+Std. Error: Male: 5 to 9 Years,ACS09_5yr_B01001004s
+Std. Error: Male: 10 to 14 Years,ACS09_5yr_B01001005s
+Std. Error: Male: 15 to 17 Years,ACS09_5yr_B01001006s
+Std. Error: Male: 18 and 19 Years,ACS09_5yr_B01001007s
+Std. Error: Male: 20 Years,ACS09_5yr_B01001008s
+Std. Error: Male: 21 Years,ACS09_5yr_B01001009s
+Std. Error: Male: 22 to 24 Years,ACS09_5yr_B01001010s
+Std. Error: Male: 25 to 29 Years,ACS09_5yr_B01001011s
+Std. Error: Male: 30 to 34 Years,ACS09_5yr_B01001012s
+Std. Error: Male: 35 to 39 Years,ACS09_5yr_B01001013s
+Std. Error: Male: 40 to 44 Years,ACS09_5yr_B01001014s
+Std. Error: Male: 45 to 49 Years,ACS09_5yr_B01001015s
+Std. Error: Male: 50 to 54 Years,ACS09_5yr_B01001016s
+Std. Error: Male: 55 to 59 Years,ACS09_5yr_B01001017s
+Std. Error: Male: 60 and 61 Years,ACS09_5yr_B01001018s
+Std. Error: Male: 62 to 64 Years,ACS09_5yr_B01001019s
+Std. Error: Male: 65 and 66 Years,ACS09_5yr_B01001020s
+Std. Error: Male: 67 to 69 Years,ACS09_5yr_B01001021s
+Std. Error: Male: 70 to 74 Years,ACS09_5yr_B01001022s
+Std. Error: Male: 75 to 79 Years,ACS09_5yr_B01001023s
+Std. Error: Male: 80 to 84 Years,ACS09_5yr_B01001024s
+Std. Error: Male: 85 Years and Over,ACS09_5yr_B01001025s
+Std. Error: Female,ACS09_5yr_B01001026s
+Std. Error: Female: Under 5 Years,ACS09_5yr_B01001027s
+Std. Error: Female: 5 to 9 Years,ACS09_5yr_B01001028s
+Std. Error: Female: 10 to 14 Years,ACS09_5yr_B01001029s
+Std. Error: Female: 15 to 17 Years,ACS09_5yr_B01001030s
+Std. Error: Female: 18 and 19 Years,ACS09_5yr_B01001031s
+Std. Error: Female: 20 Years,ACS09_5yr_B01001032s
+Std. Error: Female: 21 Years,ACS09_5yr_B01001033s
+Std. Error: Female: 22 to 24 Years,ACS09_5yr_B01001034s
+Std. Error: Female: 25 to 29 Years,ACS09_5yr_B01001035s
+Std. Error: Female: 30 to 34 Years,ACS09_5yr_B01001036s
+Std. Error: Female: 35 to 39 Years,ACS09_5yr_B01001037s
+Std. Error: Female: 40 to 44 Years,ACS09_5yr_B01001038s
+Std. Error: Female: 45 to 49 Years,ACS09_5yr_B01001039s
+Std. Error: Female: 50 to 54 Years,ACS09_5yr_B01001040s
+Std. Error: Female: 55 to 59 Years,ACS09_5yr_B01001041s
+Std. Error: Female: 60 and 61 Years,ACS09_5yr_B01001042s
+Std. Error: Female: 62 to 64 Years,ACS09_5yr_B01001043s
+Std. Error: Female: 65 and 66 Years,ACS09_5yr_B01001044s
+Std. Error: Female: 67 to 69 Years,ACS09_5yr_B01001045s
+Std. Error: Female: 70 to 74 Years,ACS09_5yr_B01001046s
+Std. Error: Female: 75 to 79 Years,ACS09_5yr_B01001047s
+Std. Error: Female: 80 to 84 Years,ACS09_5yr_B01001048s
+Std. Error: Female: 85 Years and Over,ACS09_5yr_B01001049s
+% Male,PCT_ACS09_5yr_B01001002
+% Male: Under 5 Years,PCT_ACS09_5yr_B01001003
+% Male: 5 to 9 Years,PCT_ACS09_5yr_B01001004
+% Male: 10 to 14 Years,PCT_ACS09_5yr_B01001005
+% Male: 15 to 17 Years,PCT_ACS09_5yr_B01001006
+% Male: 18 and 19 Years,PCT_ACS09_5yr_B01001007
+% Male: 20 Years,PCT_ACS09_5yr_B01001008
+% Male: 21 Years,PCT_ACS09_5yr_B01001009
+% Male: 22 to 24 Years,PCT_ACS09_5yr_B01001010
+% Male: 25 to 29 Years,PCT_ACS09_5yr_B01001011
+% Male: 30 to 34 Years,PCT_ACS09_5yr_B01001012
+% Male: 35 to 39 Years,PCT_ACS09_5yr_B01001013
+% Male: 40 to 44 Years,PCT_ACS09_5yr_B01001014
+% Male: 45 to 49 Years,PCT_ACS09_5yr_B01001015
+% Male: 50 to 54 Years,PCT_ACS09_5yr_B01001016
+% Male: 55 to 59 Years,PCT_ACS09_5yr_B01001017
+% Male: 60 and 61 Years,PCT_ACS09_5yr_B01001018
+% Male: 62 to 64 Years,PCT_ACS09_5yr_B01001019
+% Male: 65 and 66 Years,PCT_ACS09_5yr_B01001020
+% Male: 67 to 69 Years,PCT_ACS09_5yr_B01001021
+% Male: 70 to 74 Years,PCT_ACS09_5yr_B01001022
+% Male: 75 to 79 Years,PCT_ACS09_5yr_B01001023
+% Male: 80 to 84 Years,PCT_ACS09_5yr_B01001024
+% Male: 85 Years and Over,PCT_ACS09_5yr_B01001025
+% Female,PCT_ACS09_5yr_B01001026
+% Female: Under 5 Years,PCT_ACS09_5yr_B01001027
+% Female: 5 to 9 Years,PCT_ACS09_5yr_B01001028
+% Female: 10 to 14 Years,PCT_ACS09_5yr_B01001029
+% Female: 15 to 17 Years,PCT_ACS09_5yr_B01001030
+% Female: 18 and 19 Years,PCT_ACS09_5yr_B01001031
+% Female: 20 Years,PCT_ACS09_5yr_B01001032
+% Female: 21 Years,PCT_ACS09_5yr_B01001033
+% Female: 22 to 24 Years,PCT_ACS09_5yr_B01001034
+% Female: 25 to 29 Years,PCT_ACS09_5yr_B01001035
+% Female: 30 to 34 Years,PCT_ACS09_5yr_B01001036
+% Female: 35 to 39 Years,PCT_ACS09_5yr_B01001037
+% Female: 40 to 44 Years,PCT_ACS09_5yr_B01001038
+% Female: 45 to 49 Years,PCT_ACS09_5yr_B01001039
+% Female: 50 to 54 Years,PCT_ACS09_5yr_B01001040
+% Female: 55 to 59 Years,PCT_ACS09_5yr_B01001041
+% Female: 60 and 61 Years,PCT_ACS09_5yr_B01001042
+% Female: 62 to 64 Years,PCT_ACS09_5yr_B01001043
+% Female: 65 and 66 Years,PCT_ACS09_5yr_B01001044
+% Female: 67 to 69 Years,PCT_ACS09_5yr_B01001045
+% Female: 70 to 74 Years,PCT_ACS09_5yr_B01001046
+% Female: 75 to 79 Years,PCT_ACS09_5yr_B01001047
+% Female: 80 to 84 Years,PCT_ACS09_5yr_B01001048
+% Female: 85 Years and Over,PCT_ACS09_5yr_B01001049
+Workers 16 Years and Over in Households,ACS09_5yr_B08014001
+Workers 16 Years and Over in Households: No Vehicle Available,ACS09_5yr_B08014002
+Workers 16 Years and Over in Households: 1 Vehicle Available,ACS09_5yr_B08014003
+Workers 16 Years and Over in Households: 2 Vehicles Available,ACS09_5yr_B08014004
+Workers 16 Years and Over in Households: 3 Vehicles Available,ACS09_5yr_B08014005
+Workers 16 Years and Over in Households: 4 Vehicles Available,ACS09_5yr_B08014006
+Workers 16 Years and Over in Households: 5 or More Vehicles Available,ACS09_5yr_B08014007
+Workers 16 Years and Over in Households: Male,ACS09_5yr_B08014008
+Workers 16 Years and Over in Households: Male: No Vehicle Available,ACS09_5yr_B08014009
+Workers 16 Years and Over in Households: Male: 1 Vehicle Available,ACS09_5yr_B08014010
+Workers 16 Years and Over in Households: Male: 2 Vehicles Available,ACS09_5yr_B08014011
+Workers 16 Years and Over in Households: Male: 3 Vehicles Available,ACS09_5yr_B08014012
+Workers 16 Years and Over in Households: Male: 4 Vehicles Available,ACS09_5yr_B08014013
+Workers 16 Years and Over in Households: Male: 5 or More Vehicles Available,ACS09_5yr_B08014014
+Workers 16 Years and Over in Households: Female,ACS09_5yr_B08014015
+Workers 16 Years and Over in Households: Female: No Vehicle Available,ACS09_5yr_B08014016
+Workers 16 Years and Over in Households: Female: 1 Vehicle Available,ACS09_5yr_B08014017
+Workers 16 Years and Over in Households: Female: 2 Vehicles Available,ACS09_5yr_B08014018
+Workers 16 Years and Over in Households: Female: 3 Vehicles Available,ACS09_5yr_B08014019
+Workers 16 Years and Over in Households: Female: 4 Vehicles Available,ACS09_5yr_B08014020
+Workers 16 Years and Over in Households: Female: 5 or More Vehicles Available,ACS09_5yr_B08014021
+Std. Error: Workers 16 Years and Over in Households,ACS09_5yr_B08014001s
+Std. Error: Workers 16 Years and Over in Households: No Vehicle Available,ACS09_5yr_B08014002s
+Std. Error: Workers 16 Years and Over in Households: 1 Vehicle Available,ACS09_5yr_B08014003s
+Std. Error: Workers 16 Years and Over in Households: 2 Vehicles Available,ACS09_5yr_B08014004s
+Std. Error: Workers 16 Years and Over in Households: 3 Vehicles Available,ACS09_5yr_B08014005s
+Std. Error: Workers 16 Years and Over in Households: 4 Vehicles Available,ACS09_5yr_B08014006s
+Std. Error: Workers 16 Years and Over in Households: 5 or More Vehicles Available,ACS09_5yr_B08014007s
+Std. Error: Workers 16 Years and Over in Households: Male,ACS09_5yr_B08014008s
+Std. Error: Workers 16 Years and Over in Households: Male: No Vehicle Available,ACS09_5yr_B08014009s
+Std. Error: Workers 16 Years and Over in Households: Male: 1 Vehicle Available,ACS09_5yr_B08014010s
+Std. Error: Workers 16 Years and Over in Households: Male: 2 Vehicles Available,ACS09_5yr_B08014011s
+Std. Error: Workers 16 Years and Over in Households: Male: 3 Vehicles Available,ACS09_5yr_B08014012s
+Std. Error: Workers 16 Years and Over in Households: Male: 4 Vehicles Available,ACS09_5yr_B08014013s
+Std. Error: Workers 16 Years and Over in Households: Male: 5 or More Vehicles Available,ACS09_5yr_B08014014s
+Std. Error: Workers 16 Years and Over in Households: Female,ACS09_5yr_B08014015s
+Std. Error: Workers 16 Years and Over in Households: Female: No Vehicle Available,ACS09_5yr_B08014016s
+Std. Error: Workers 16 Years and Over in Households: Female: 1 Vehicle Available,ACS09_5yr_B08014017s
+Std. Error: Workers 16 Years and Over in Households: Female: 2 Vehicles Available,ACS09_5yr_B08014018s
+Std. Error: Workers 16 Years and Over in Households: Female: 3 Vehicles Available,ACS09_5yr_B08014019s
+Std. Error: Workers 16 Years and Over in Households: Female: 4 Vehicles Available,ACS09_5yr_B08014020s
+Std. Error: Workers 16 Years and Over in Households: Female: 5 or More Vehicles Available,ACS09_5yr_B08014021s
+% Workers 16 Years and Over in Households: No Vehicle Available,PCT_ACS09_5yr_B08014002
+% Workers 16 Years and Over in Households: 1 Vehicle Available,PCT_ACS09_5yr_B08014003
+% Workers 16 Years and Over in Households: 2 Vehicles Available,PCT_ACS09_5yr_B08014004
+% Workers 16 Years and Over in Households: 3 Vehicles Available,PCT_ACS09_5yr_B08014005
+% Workers 16 Years and Over in Households: 4 Vehicles Available,PCT_ACS09_5yr_B08014006
+% Workers 16 Years and Over in Households: 5 or More Vehicles Available,PCT_ACS09_5yr_B08014007
+% Workers 16 Years and Over in Households: Male,PCT_ACS09_5yr_B08014008
+% Workers 16 Years and Over in Households: Male: No Vehicle Available,PCT_ACS09_5yr_B08014009
+% Workers 16 Years and Over in Households: Male: 1 Vehicle Available,PCT_ACS09_5yr_B08014010
+% Workers 16 Years and Over in Households: Male: 2 Vehicles Available,PCT_ACS09_5yr_B08014011
+% Workers 16 Years and Over in Households: Male: 3 Vehicles Available,PCT_ACS09_5yr_B08014012
+% Workers 16 Years and Over in Households: Male: 4 Vehicles Available,PCT_ACS09_5yr_B08014013
+% Workers 16 Years and Over in Households: Male: 5 or More Vehicles Available,PCT_ACS09_5yr_B08014014
+% Workers 16 Years and Over in Households: Female,PCT_ACS09_5yr_B08014015
+% Workers 16 Years and Over in Households: Female: No Vehicle Available,PCT_ACS09_5yr_B08014016
+% Workers 16 Years and Over in Households: Female: 1 Vehicle Available,PCT_ACS09_5yr_B08014017
+% Workers 16 Years and Over in Households: Female: 2 Vehicles Available,PCT_ACS09_5yr_B08014018
+% Workers 16 Years and Over in Households: Female: 3 Vehicles Available,PCT_ACS09_5yr_B08014019
+% Workers 16 Years and Over in Households: Female: 4 Vehicles Available,PCT_ACS09_5yr_B08014020
+% Workers 16 Years and Over in Households: Female: 5 or More Vehicles Available,PCT_ACS09_5yr_B08014021
+"Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting",ACS09_5yr_B08015001
+"Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Male",ACS09_5yr_B08015002
+"Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Female",ACS09_5yr_B08015003
+"Std. Error: Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting",ACS09_5yr_B08015001s
+"Std. Error: Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Male",ACS09_5yr_B08015002s
+"Std. Error: Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Female",ACS09_5yr_B08015003s
+"% Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Male",PCT_ACS09_5yr_B08015002
+"% Workers Whose Means of Transportation Is Car, Truck, or Van: Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting: Female",PCT_ACS09_5yr_B08015003
+Workers 16 Years and Over Who Did Not Work At Home,ACS09_5yr_C08134001
+Workers 16 Years and Over Who Did Not Work At Home: Less than 10 Minutes,ACS09_5yr_C08134002
+Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,ACS09_5yr_C08134003
+Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,ACS09_5yr_C08134004
+Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,ACS09_5yr_C08134005
+Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,ACS09_5yr_C08134006
+Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,ACS09_5yr_C08134007
+Workers 16 Years and Over Who Did Not Work At Home: 35 to 44 Minutes,ACS09_5yr_C08134008
+Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,ACS09_5yr_C08134009
+Workers 16 Years and Over Who Did Not Work At Home: 60 or More Minutes,ACS09_5yr_C08134010
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone",ACS09_5yr_C08134011
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: Less than 10 Minutes",ACS09_5yr_C08134012
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 10 to 14 Minutes",ACS09_5yr_C08134013
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 15 to 19 Minutes",ACS09_5yr_C08134014
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 20 to 24 Minutes",ACS09_5yr_C08134015
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 25 to 29 Minutes",ACS09_5yr_C08134016
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 30 to 34 Minutes",ACS09_5yr_C08134017
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 35 to 44 Minutes",ACS09_5yr_C08134018
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 45 to 59 Minutes",ACS09_5yr_C08134019
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 60 or More Minutes",ACS09_5yr_C08134020
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled",ACS09_5yr_C08134021
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: Less than 10 Minutes",ACS09_5yr_C08134022
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 10 to 14 Minutes",ACS09_5yr_C08134023
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 15 to 19 Minutes",ACS09_5yr_C08134024
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 20 to 24 Minutes",ACS09_5yr_C08134025
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 25 to 29 Minutes",ACS09_5yr_C08134026
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 30 to 34 Minutes",ACS09_5yr_C08134027
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 35 to 44 Minutes",ACS09_5yr_C08134028
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 45 to 59 Minutes",ACS09_5yr_C08134029
+"Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 60 or More Minutes",ACS09_5yr_C08134030
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab),ACS09_5yr_C08134031
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): Less than 10 Minutes,ACS09_5yr_C08134032
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 10 to 14 Minutes,ACS09_5yr_C08134033
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 15 to 19 Minutes,ACS09_5yr_C08134034
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 20 to 24 Minutes,ACS09_5yr_C08134035
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 25 to 29 Minutes,ACS09_5yr_C08134036
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 30 to 34 Minutes,ACS09_5yr_C08134037
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 35 to 44 Minutes,ACS09_5yr_C08134038
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 45 to 59 Minutes,ACS09_5yr_C08134039
+Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 60 or More Minutes,ACS09_5yr_C08134040
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means",ACS09_5yr_C08134041
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: Less than 10 Minutes",ACS09_5yr_C08134042
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 10 to 14 Minutes",ACS09_5yr_C08134043
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 15 to 19 Minutes",ACS09_5yr_C08134044
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 20 to 24 Minutes",ACS09_5yr_C08134045
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 25 to 29 Minutes",ACS09_5yr_C08134046
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 30 to 34 Minutes",ACS09_5yr_C08134047
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 35 to 44 Minutes",ACS09_5yr_C08134048
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 45 to 59 Minutes",ACS09_5yr_C08134049
+"Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 60 or More Minutes",ACS09_5yr_C08134050
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home,ACS09_5yr_C08134001s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Less than 10 Minutes,ACS09_5yr_C08134002s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,ACS09_5yr_C08134003s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,ACS09_5yr_C08134004s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,ACS09_5yr_C08134005s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,ACS09_5yr_C08134006s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,ACS09_5yr_C08134007s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 35 to 44 Minutes,ACS09_5yr_C08134008s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,ACS09_5yr_C08134009s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 60 or More Minutes,ACS09_5yr_C08134010s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone",ACS09_5yr_C08134011s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: Less than 10 Minutes",ACS09_5yr_C08134012s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 10 to 14 Minutes",ACS09_5yr_C08134013s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 15 to 19 Minutes",ACS09_5yr_C08134014s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 20 to 24 Minutes",ACS09_5yr_C08134015s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 25 to 29 Minutes",ACS09_5yr_C08134016s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 30 to 34 Minutes",ACS09_5yr_C08134017s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 35 to 44 Minutes",ACS09_5yr_C08134018s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 45 to 59 Minutes",ACS09_5yr_C08134019s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 60 or More Minutes",ACS09_5yr_C08134020s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled",ACS09_5yr_C08134021s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: Less than 10 Minutes",ACS09_5yr_C08134022s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 10 to 14 Minutes",ACS09_5yr_C08134023s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 15 to 19 Minutes",ACS09_5yr_C08134024s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 20 to 24 Minutes",ACS09_5yr_C08134025s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 25 to 29 Minutes",ACS09_5yr_C08134026s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 30 to 34 Minutes",ACS09_5yr_C08134027s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 35 to 44 Minutes",ACS09_5yr_C08134028s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 45 to 59 Minutes",ACS09_5yr_C08134029s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 60 or More Minutes",ACS09_5yr_C08134030s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab),ACS09_5yr_C08134031s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): Less than 10 Minutes,ACS09_5yr_C08134032s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 10 to 14 Minutes,ACS09_5yr_C08134033s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 15 to 19 Minutes,ACS09_5yr_C08134034s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 20 to 24 Minutes,ACS09_5yr_C08134035s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 25 to 29 Minutes,ACS09_5yr_C08134036s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 30 to 34 Minutes,ACS09_5yr_C08134037s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 35 to 44 Minutes,ACS09_5yr_C08134038s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 45 to 59 Minutes,ACS09_5yr_C08134039s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 60 or More Minutes,ACS09_5yr_C08134040s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means",ACS09_5yr_C08134041s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: Less than 10 Minutes",ACS09_5yr_C08134042s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 10 to 14 Minutes",ACS09_5yr_C08134043s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 15 to 19 Minutes",ACS09_5yr_C08134044s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 20 to 24 Minutes",ACS09_5yr_C08134045s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 25 to 29 Minutes",ACS09_5yr_C08134046s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 30 to 34 Minutes",ACS09_5yr_C08134047s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 35 to 44 Minutes",ACS09_5yr_C08134048s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 45 to 59 Minutes",ACS09_5yr_C08134049s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 60 or More Minutes",ACS09_5yr_C08134050s
+% Workers 16 Years and Over Who Did Not Work At Home: Less than 10 Minutes,PCT_ACS09_5yr_C08134002
+% Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,PCT_ACS09_5yr_C08134003
+% Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,PCT_ACS09_5yr_C08134004
+% Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,PCT_ACS09_5yr_C08134005
+% Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,PCT_ACS09_5yr_C08134006
+% Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,PCT_ACS09_5yr_C08134007
+% Workers 16 Years and Over Who Did Not Work At Home: 35 to 44 Minutes,PCT_ACS09_5yr_C08134008
+% Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,PCT_ACS09_5yr_C08134009
+% Workers 16 Years and Over Who Did Not Work At Home: 60 or More Minutes,PCT_ACS09_5yr_C08134010
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone",PCT_ACS09_5yr_C08134011
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: Less than 10 Minutes",PCT_ACS09_5yr_C08134012
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 10 to 14 Minutes",PCT_ACS09_5yr_C08134013
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 15 to 19 Minutes",PCT_ACS09_5yr_C08134014
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 20 to 24 Minutes",PCT_ACS09_5yr_C08134015
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 25 to 29 Minutes",PCT_ACS09_5yr_C08134016
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 30 to 34 Minutes",PCT_ACS09_5yr_C08134017
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 35 to 44 Minutes",PCT_ACS09_5yr_C08134018
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 45 to 59 Minutes",PCT_ACS09_5yr_C08134019
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Drove Alone: 60 or More Minutes",PCT_ACS09_5yr_C08134020
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled",PCT_ACS09_5yr_C08134021
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: Less than 10 Minutes",PCT_ACS09_5yr_C08134022
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 10 to 14 Minutes",PCT_ACS09_5yr_C08134023
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 15 to 19 Minutes",PCT_ACS09_5yr_C08134024
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 20 to 24 Minutes",PCT_ACS09_5yr_C08134025
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 25 to 29 Minutes",PCT_ACS09_5yr_C08134026
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 30 to 34 Minutes",PCT_ACS09_5yr_C08134027
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 35 to 44 Minutes",PCT_ACS09_5yr_C08134028
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 45 to 59 Minutes",PCT_ACS09_5yr_C08134029
+"% Workers 16 Years and Over Who Did Not Work At Home: Car, Truck, or Van - Carpooled: 60 or More Minutes",PCT_ACS09_5yr_C08134030
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab),PCT_ACS09_5yr_C08134031
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): Less than 10 Minutes,PCT_ACS09_5yr_C08134032
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 10 to 14 Minutes,PCT_ACS09_5yr_C08134033
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 15 to 19 Minutes,PCT_ACS09_5yr_C08134034
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 20 to 24 Minutes,PCT_ACS09_5yr_C08134035
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 25 to 29 Minutes,PCT_ACS09_5yr_C08134036
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 30 to 34 Minutes,PCT_ACS09_5yr_C08134037
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 35 to 44 Minutes,PCT_ACS09_5yr_C08134038
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 45 to 59 Minutes,PCT_ACS09_5yr_C08134039
+% Workers 16 Years and Over Who Did Not Work At Home: Public Transportation (Excluding Taxicab): 60 or More Minutes,PCT_ACS09_5yr_C08134040
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means",PCT_ACS09_5yr_C08134041
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: Less than 10 Minutes",PCT_ACS09_5yr_C08134042
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 10 to 14 Minutes",PCT_ACS09_5yr_C08134043
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 15 to 19 Minutes",PCT_ACS09_5yr_C08134044
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 20 to 24 Minutes",PCT_ACS09_5yr_C08134045
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 25 to 29 Minutes",PCT_ACS09_5yr_C08134046
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 30 to 34 Minutes",PCT_ACS09_5yr_C08134047
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 35 to 44 Minutes",PCT_ACS09_5yr_C08134048
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 45 to 59 Minutes",PCT_ACS09_5yr_C08134049
+"% Workers 16 Years and Over Who Did Not Work At Home: Taxicab, Motorcycle, Bicycle,  Walked, or Other Means: 60 or More Minutes",PCT_ACS09_5yr_C08134050
+Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes),ACS09_5yr_C08136001
+"Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Drove Alone",ACS09_5yr_C08136002
+"Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Carpooled",ACS09_5yr_C08136003
+Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Public Transportation (Excluding Taxicab),ACS09_5yr_C08136004
+"Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Taxicab, Motorcycle, Bicycle, Walked, or Other Means",ACS09_5yr_C08136005
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes),ACS09_5yr_C08136001s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Drove Alone",ACS09_5yr_C08136002s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Carpooled",ACS09_5yr_C08136003s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Public Transportation (Excluding Taxicab),ACS09_5yr_C08136004s
+"Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Taxicab, Motorcycle, Bicycle, Walked, or Other Means",ACS09_5yr_C08136005s
+"% Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Drove Alone",PCT_ACS09_5yr_C08136002
+"% Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Car, Truck, or Van - Carpooled",PCT_ACS09_5yr_C08136003
+% Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Public Transportation (Excluding Taxicab),PCT_ACS09_5yr_C08136004
+"% Workers 16 Years and Over Who Did Not Work At Home: Aggregate Travel Time to Work (in Minutes): Taxicab, Motorcycle, Bicycle, Walked, or Other Means",PCT_ACS09_5yr_C08136005
+Workers 16 Years and Over,ACS09_5yr_B08301001
+"Workers 16 Years and Over: Car, Truck, or Van",ACS09_5yr_B08301002
+"Workers 16 Years and Over: Car, Truck, or Van: Drove Alone",ACS09_5yr_B08301003
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled",ACS09_5yr_B08301004
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 2-Person Carpool",ACS09_5yr_B08301005
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 3-Person Carpool",ACS09_5yr_B08301006
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 4-Person Carpool",ACS09_5yr_B08301007
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 5- or 6-Person Carpool",ACS09_5yr_B08301008
+"Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 7-or-More-Person Carpool",ACS09_5yr_B08301009
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab),ACS09_5yr_B08301010
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Bus or Trolley Bus,ACS09_5yr_B08301011
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Streetcar or Trolley Car (Carro Publico in Puerto Rico),ACS09_5yr_B08301012
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Subway or Elevated,ACS09_5yr_B08301013
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Railroad,ACS09_5yr_B08301014
+Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Ferryboat,ACS09_5yr_B08301015
+Workers 16 Years and Over: Taxicab,ACS09_5yr_B08301016
+Workers 16 Years and Over: Motorcycle,ACS09_5yr_B08301017
+Workers 16 Years and Over: Bicycle,ACS09_5yr_B08301018
+Workers 16 Years and Over: Walked,ACS09_5yr_B08301019
+Workers 16 Years and Over: Other Means,ACS09_5yr_B08301020
+Workers 16 Years and Over: Worked At Home,ACS09_5yr_B08301021
+Std. Error: Workers 16 Years and Over,ACS09_5yr_B08301001s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van",ACS09_5yr_B08301002s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Drove Alone",ACS09_5yr_B08301003s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled",ACS09_5yr_B08301004s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 2-Person Carpool",ACS09_5yr_B08301005s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 3-Person Carpool",ACS09_5yr_B08301006s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 4-Person Carpool",ACS09_5yr_B08301007s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 5- or 6-Person Carpool",ACS09_5yr_B08301008s
+"Std. Error: Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 7-or-More-Person Carpool",ACS09_5yr_B08301009s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab),ACS09_5yr_B08301010s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Bus or Trolley Bus,ACS09_5yr_B08301011s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Streetcar or Trolley Car (Carro Publico in Puerto Rico),ACS09_5yr_B08301012s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Subway or Elevated,ACS09_5yr_B08301013s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Railroad,ACS09_5yr_B08301014s
+Std. Error: Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Ferryboat,ACS09_5yr_B08301015s
+Std. Error: Workers 16 Years and Over: Taxicab,ACS09_5yr_B08301016s
+Std. Error: Workers 16 Years and Over: Motorcycle,ACS09_5yr_B08301017s
+Std. Error: Workers 16 Years and Over: Bicycle,ACS09_5yr_B08301018s
+Std. Error: Workers 16 Years and Over: Walked,ACS09_5yr_B08301019s
+Std. Error: Workers 16 Years and Over: Other Means,ACS09_5yr_B08301020s
+Std. Error: Workers 16 Years and Over: Worked At Home,ACS09_5yr_B08301021s
+"% Workers 16 Years and Over: Car, Truck, or Van",PCT_ACS09_5yr_B08301002
+"% Workers 16 Years and Over: Car, Truck, or Van: Drove Alone",PCT_ACS09_5yr_B08301003
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled",PCT_ACS09_5yr_B08301004
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 2-Person Carpool",PCT_ACS09_5yr_B08301005
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 3-Person Carpool",PCT_ACS09_5yr_B08301006
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 4-Person Carpool",PCT_ACS09_5yr_B08301007
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 5- or 6-Person Carpool",PCT_ACS09_5yr_B08301008
+"% Workers 16 Years and Over: Car, Truck, or Van: Carpooled: in 7-or-More-Person Carpool",PCT_ACS09_5yr_B08301009
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab),PCT_ACS09_5yr_B08301010
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Bus or Trolley Bus,PCT_ACS09_5yr_B08301011
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Streetcar or Trolley Car (Carro Publico in Puerto Rico),PCT_ACS09_5yr_B08301012
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Subway or Elevated,PCT_ACS09_5yr_B08301013
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Railroad,PCT_ACS09_5yr_B08301014
+% Workers 16 Years and Over: Public Transportation (Excluding Taxicab): Ferryboat,PCT_ACS09_5yr_B08301015
+% Workers 16 Years and Over: Taxicab,PCT_ACS09_5yr_B08301016
+% Workers 16 Years and Over: Motorcycle,PCT_ACS09_5yr_B08301017
+% Workers 16 Years and Over: Bicycle,PCT_ACS09_5yr_B08301018
+% Workers 16 Years and Over: Walked,PCT_ACS09_5yr_B08301019
+% Workers 16 Years and Over: Other Means,PCT_ACS09_5yr_B08301020
+% Workers 16 Years and Over: Worked At Home,PCT_ACS09_5yr_B08301021
+Workers 16 Years and Over Who Did Not Work At Home,ACS09_5yr_B08303001
+Workers 16 Years and Over Who Did Not Work At Home: Less than 5 Minutes,ACS09_5yr_B08303002
+Workers 16 Years and Over Who Did Not Work At Home: 5 to 9 Minutes,ACS09_5yr_B08303003
+Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,ACS09_5yr_B08303004
+Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,ACS09_5yr_B08303005
+Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,ACS09_5yr_B08303006
+Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,ACS09_5yr_B08303007
+Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,ACS09_5yr_B08303008
+Workers 16 Years and Over Who Did Not Work At Home: 35 to 39 Minutes,ACS09_5yr_B08303009
+Workers 16 Years and Over Who Did Not Work At Home: 40 to 44 Minutes,ACS09_5yr_B08303010
+Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,ACS09_5yr_B08303011
+Workers 16 Years and Over Who Did Not Work At Home: 60 to 89 Minutes,ACS09_5yr_B08303012
+Workers 16 Years and Over Who Did Not Work At Home: 90 or More Minutes,ACS09_5yr_B08303013
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home,ACS09_5yr_B08303001s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: Less than 5 Minutes,ACS09_5yr_B08303002s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 5 to 9 Minutes,ACS09_5yr_B08303003s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,ACS09_5yr_B08303004s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,ACS09_5yr_B08303005s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,ACS09_5yr_B08303006s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,ACS09_5yr_B08303007s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,ACS09_5yr_B08303008s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 35 to 39 Minutes,ACS09_5yr_B08303009s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 40 to 44 Minutes,ACS09_5yr_B08303010s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,ACS09_5yr_B08303011s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 60 to 89 Minutes,ACS09_5yr_B08303012s
+Std. Error: Workers 16 Years and Over Who Did Not Work At Home: 90 or More Minutes,ACS09_5yr_B08303013s
+% Workers 16 Years and Over Who Did Not Work At Home: Less than 5 Minutes,PCT_ACS09_5yr_B08303002
+% Workers 16 Years and Over Who Did Not Work At Home: 5 to 9 Minutes,PCT_ACS09_5yr_B08303003
+% Workers 16 Years and Over Who Did Not Work At Home: 10 to 14 Minutes,PCT_ACS09_5yr_B08303004
+% Workers 16 Years and Over Who Did Not Work At Home: 15 to 19 Minutes,PCT_ACS09_5yr_B08303005
+% Workers 16 Years and Over Who Did Not Work At Home: 20 to 24 Minutes,PCT_ACS09_5yr_B08303006
+% Workers 16 Years and Over Who Did Not Work At Home: 25 to 29 Minutes,PCT_ACS09_5yr_B08303007
+% Workers 16 Years and Over Who Did Not Work At Home: 30 to 34 Minutes,PCT_ACS09_5yr_B08303008
+% Workers 16 Years and Over Who Did Not Work At Home: 35 to 39 Minutes,PCT_ACS09_5yr_B08303009
+% Workers 16 Years and Over Who Did Not Work At Home: 40 to 44 Minutes,PCT_ACS09_5yr_B08303010
+% Workers 16 Years and Over Who Did Not Work At Home: 45 to 59 Minutes,PCT_ACS09_5yr_B08303011
+% Workers 16 Years and Over Who Did Not Work At Home: 60 to 89 Minutes,PCT_ACS09_5yr_B08303012
+% Workers 16 Years and Over Who Did Not Work At Home: 90 or More Minutes,PCT_ACS09_5yr_B08303013
+Workers 16 Years and Over for Whom Poverty Status Is Determined,ACS09_5yr_B08122001
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122002
+Workers 16 Years and Over for Whom Poverty Status Is Determined: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122003
+Workers 16 Years and Over for Whom Poverty Status Is Determined: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122004
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone",ACS09_5yr_B08122005
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122006
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122007
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122008
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled",ACS09_5yr_B08122009
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122010
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122011
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122012
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab),ACS09_5yr_B08122013
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): Below 100 Percent of the Poverty Level,ACS09_5yr_B08122014
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122015
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122016
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked,ACS09_5yr_B08122017
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122018
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122019
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122020
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means",ACS09_5yr_B08122021
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122022
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122023
+"Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122024
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home,ACS09_5yr_B08122025
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122026
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122027
+Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122028
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined,ACS09_5yr_B08122001s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122002s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122003s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122004s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone",ACS09_5yr_B08122005s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122006s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122007s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122008s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled",ACS09_5yr_B08122009s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122010s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122011s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122012s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab),ACS09_5yr_B08122013s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): Below 100 Percent of the Poverty Level,ACS09_5yr_B08122014s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122015s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122016s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked,ACS09_5yr_B08122017s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122018s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122019s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122020s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means",ACS09_5yr_B08122021s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: Below 100 Percent of the Poverty Level",ACS09_5yr_B08122022s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: 100 to 149 Percent of the Poverty Level",ACS09_5yr_B08122023s
+"Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: At or Above 150 Percent of the Poverty Level",ACS09_5yr_B08122024s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home,ACS09_5yr_B08122025s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: Below 100 Percent of the Poverty Level,ACS09_5yr_B08122026s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: 100 to 149 Percent of the Poverty Level,ACS09_5yr_B08122027s
+Std. Error: Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: At or Above 150 Percent of the Poverty Level,ACS09_5yr_B08122028s
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Below 100 Percent of the Poverty Level,PCT_ACS09_5yr_B08122002
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: 100 to 149 Percent of the Poverty Level,PCT_ACS09_5yr_B08122003
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: At or Above 150 Percent of the Poverty Level,PCT_ACS09_5yr_B08122004
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone",PCT_ACS09_5yr_B08122005
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: Below 100 Percent of the Poverty Level",PCT_ACS09_5yr_B08122006
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: 100 to 149 Percent of the Poverty Level",PCT_ACS09_5yr_B08122007
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Drove Alone: At or Above 150 Percent of the Poverty Level",PCT_ACS09_5yr_B08122008
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled",PCT_ACS09_5yr_B08122009
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: Below 100 Percent of the Poverty Level",PCT_ACS09_5yr_B08122010
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: 100 to 149 Percent of the Poverty Level",PCT_ACS09_5yr_B08122011
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Car, Truck, or Van - Carpooled: At or Above 150 Percent of the Poverty Level",PCT_ACS09_5yr_B08122012
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab),PCT_ACS09_5yr_B08122013
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): Below 100 Percent of the Poverty Level,PCT_ACS09_5yr_B08122014
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): 100 to 149 Percent of the Poverty Level,PCT_ACS09_5yr_B08122015
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Public Transportation (Excluding Taxicab): At or Above 150 Percent of the Poverty Level,PCT_ACS09_5yr_B08122016
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked,PCT_ACS09_5yr_B08122017
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: Below 100 Percent of the Poverty Level,PCT_ACS09_5yr_B08122018
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: 100 to 149 Percent of the Poverty Level,PCT_ACS09_5yr_B08122019
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Walked: At or Above 150 Percent of the Poverty Level,PCT_ACS09_5yr_B08122020
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means",PCT_ACS09_5yr_B08122021
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: Below 100 Percent of the Poverty Level",PCT_ACS09_5yr_B08122022
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: 100 to 149 Percent of the Poverty Level",PCT_ACS09_5yr_B08122023
+"% Workers 16 Years and Over for Whom Poverty Status Is Determined: Taxicab, Motorcycle, Bicycle, or Other Means: At or Above 150 Percent of the Poverty Level",PCT_ACS09_5yr_B08122024
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home,PCT_ACS09_5yr_B08122025
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: Below 100 Percent of the Poverty Level,PCT_ACS09_5yr_B08122026
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: 100 to 149 Percent of the Poverty Level,PCT_ACS09_5yr_B08122027
+% Workers 16 Years and Over for Whom Poverty Status Is Determined: Worked At Home: At or Above 150 Percent of the Poverty Level,PCT_ACS09_5yr_B08122028
