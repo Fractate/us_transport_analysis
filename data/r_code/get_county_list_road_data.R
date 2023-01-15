@@ -166,6 +166,7 @@ get_county_road_data <- function(zip_file_name, enable_data_proc) {
         ## https://www2.census.gov/geo/pdfs/reference/mtfccs2022.pdf
         # road_boundary_HARV = road_boundary_HARV %>% filter(!MTFCC %in% c('S1100', 'S1200'))
         #### instead of filtering out national and state highways, filtering only for local and footpath roads
+        
         road_boundary_HARV = road_boundary_HARV %>% filter(MTFCC %in% c('S1400', 'S1710'))
     
         sd = st_sfc(geometry=road_boundary_HARV$geometry, crs="+proj=longlat +datum=NAD83 +no_defs")
