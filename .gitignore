@@ -49,3 +49,6 @@ data/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_2019_
 data/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-transport-cols.csv
 data/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-acs-zip.csv
 data/2019_zip_data/zip_business_profile_data/processed_data/zip_business_profile_2019.csv
+data/2019_block_group_dara/raw_data/2019_acs_block_group_data.csv
+data/2019_block_group_dara/raw_data/2019_acs_block_group_data.xlsx
+data/2019_block_group_dara/raw_data/na_to_zero.csv
