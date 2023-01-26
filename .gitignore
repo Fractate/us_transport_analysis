@@ -83,3 +83,8 @@ data/raw_data/2019_acs_block_group_data.xlsx
 data/raw_data/ny_2019_acs_block_group_data.csv
 data/processed_data/ny_american_community_survey_data_2019.csv
 data/raw_data/na_to_zero.csv
+data/blockgroup_data/2019_acs_block_group_data.csv
+data/blockgroup_data/2019_acs_block_group_data.xlsx
+data/blockgroup_data/na_to_zero.csv
+data/blockgroup_data/ny_2019_acs_block_group_data_zeroed.csv
+data/blockgroup_data/ny_2019_acs_block_group_data.csv
