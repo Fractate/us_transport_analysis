@@ -1,0 +1,4 @@
+Data comes from National_Transit_Map_Stops.zip
+Projection is changed from 4236 to 4269.
+
+All shapefile data is too big so it is rescinded from git uploads
