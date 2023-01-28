@@ -89,3 +89,8 @@ data/blockgroup_data/na_to_zero.csv
 data/blockgroup_data/ny_2019_acs_block_group_data_zeroed.csv
 data/blockgroup_data/ny_2019_acs_block_group_data.csv
 data/usa_data/transit_gtfs_data/National_Transit_Map_Routes.zip
+data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.csv
+data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.xlsx
+analysis/helpers/__pycache__/environment_helper.cpython-39.pyc
+analysis/helpers/__pycache__/variable_helper.cpython-39.pyc
+**/__pycache__/
