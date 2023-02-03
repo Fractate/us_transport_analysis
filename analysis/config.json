@@ -1,4 +1,6 @@
 {
     "STATE": "ny",
-    "YEAR": 2019
+    "YEAR": 2019,
+    "GEOGRAPHIC_LEVEL": "blockgroup",
+    "MISC_GEOGRAPHIC_LEVEL": "censustract"
 }
