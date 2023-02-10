@@ -1,4 +1,4 @@
-find . -size +100M | cat >> .gitignore
+find . -size +100M | cat >> .gitignore //this is run in git bash in the repository folder
 
 .gitignore
 acs_population_data/2007-3yr-1.csv
@@ -96,27 +96,27 @@ analysis/helpers/__pycache__/environment_helper.cpython-39.pyc
 analysis/helpers/__pycache__/variable_helper.cpython-39.pyc
 **/__pycache__/
 
-./.git/objects/25/258cfe3435b12a864f2be338c674a115a83700
-./.git/objects/72/af2d5cb0478b5d1b0d9148c86f938dc396b3ad
-./.git/objects/86/2fe04d4e9ebbc92b5ef8e82ddc42487ef49afb
-./.git/objects/a9/ad703ff97b7b4f6a80f13e17fee5289e82d37f
-./.git/objects/ad/56910cd5e93dc87926c395a5892720d0119d20
-./.git/objects/dc/0c037bd759b41f5b3295a97f1b317e4eb08276
-./.git/objects/fb/2779978eb4f4b5708feb4ef0bd211a1bf02fdf
-./.git/objects/pack/pack-e16e3cd2d838778c46a14ab07802cbbc578751b9.pack
-./data/ny_data/gtfs_data/mta_bus_gtfs/MTA Brooklyn GTFS/brooklyn_stop_times.csv
-./data/ny_data/gtfs_data/mta_bus_gtfs/mta_transit_database.db
-./data/ny_data/gtfs_data/subway_gtfs/mta_subway_data_db.db
-./data/ny_data/tiger_shapefile/localroads_shapefiles/localroads_shapefiles_combined/localroads_shapefiles_combined.shp
-./data/ny_data/tiger_shapefile/localroads_shapefiles_102005/localroads_shapefiles_102005.shp
-./data/ny_data/tiger_shapefile/mta_bus_500_meters_from_station_102005/mta_bus_500_meters_from_station_102005.shp
-./data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.csv
-./data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.xlsx
-./data/usa_data/tiger_shapefile_data/usa_counties_102005_projection/usa_counties_102005_projection.shp
-./data/usa_data/transit_gtfs_data/National_Transit_Map_Routes.zip
-./data/usa_data/transit_gtfs_data/transit_routes_102005_projection/transit_routes_102005_projection.shp
-./data/usa_data/transit_gtfs_data/transit_routes_4269_projection/transit_routes_4269_projection.shp
-./data/usa_data/transit_gtfs_data/transit_stops_102005_projection/transit_stops_102005_projection.dbf
-./_archives/2019_data/county_business_profile_data/raw_data/county_business_profile_2019_raw.csv
-./_archives/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-acs-zip.csv
-./_archives/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_2019_raw.csv
+.git/objects/25/258cfe3435b12a864f2be338c674a115a83700
+.git/objects/72/af2d5cb0478b5d1b0d9148c86f938dc396b3ad
+.git/objects/86/2fe04d4e9ebbc92b5ef8e82ddc42487ef49afb
+.git/objects/a9/ad703ff97b7b4f6a80f13e17fee5289e82d37f
+.git/objects/ad/56910cd5e93dc87926c395a5892720d0119d20
+.git/objects/dc/0c037bd759b41f5b3295a97f1b317e4eb08276
+.git/objects/fb/2779978eb4f4b5708feb4ef0bd211a1bf02fdf
+.git/objects/pack/pack-e16e3cd2d838778c46a14ab07802cbbc578751b9.pack
+data/ny_data/gtfs_data/mta_bus_gtfs/MTA Brooklyn GTFS/brooklyn_stop_times.csv
+data/ny_data/gtfs_data/mta_bus_gtfs/mta_transit_database.db
+data/ny_data/gtfs_data/subway_gtfs/mta_subway_data_db.db
+data/ny_data/tiger_shapefile/localroads_shapefiles/localroads_shapefiles_combined/localroads_shapefiles_combined.shp
+data/ny_data/tiger_shapefile/localroads_shapefiles_102005/localroads_shapefiles_102005.shp
+data/ny_data/tiger_shapefile/mta_bus_500_meters_from_station_102005/mta_bus_500_meters_from_station_102005.shp
+data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.csv
+data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.xlsx
+data/usa_data/tiger_shapefile_data/usa_counties_102005_projection/usa_counties_102005_projection.shp
+data/usa_data/transit_gtfs_data/National_Transit_Map_Routes.zip
+data/usa_data/transit_gtfs_data/transit_routes_102005_projection/transit_routes_102005_projection.shp
+data/usa_data/transit_gtfs_data/transit_routes_4269_projection/transit_routes_4269_projection.shp
+data/usa_data/transit_gtfs_data/transit_stops_102005_projection/transit_stops_102005_projection.dbf
+_archives/2019_data/county_business_profile_data/raw_data/county_business_profile_2019_raw.csv
+_archives/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-acs-zip.csv
+_archives/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_2019_raw.csv

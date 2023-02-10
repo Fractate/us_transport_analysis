@@ -1,0 +1,1092 @@
+total_count,station_from,station_to,average_transit_time,transit_weight
+386,0-1 Av,202-Bedford Av,4.85,12.56
+386,0-1 Av,82-3 Av,1,2.59
+605,1-103 St,162-96 St,1.51,2.5
+602,1-103 St,7-110 St,1.05,1.74
+234,10-111 St,398-Ozone Park - Lefferts Blvd,1.04,4.44
+232,10-111 St,6-104 St,1.12,4.83
+466,100-45 St,113-53 St,1.54,3.3
+433,100-45 St,93-36 St,2.59,5.98
+668,101-46 St,112-52 St,1,1.5
+690,101-46 St,97-40 St,1,1.45
+462,102-46 St,390-Northern Blvd,1.5,3.25
+475,102-46 St,439-Steinway St,1.71,3.6
+105,103-47-50 Sts - Rockefeller Ctr,106-5 Av/53 St,3.11,29.62
+662,103-47-50 Sts - Rockefeller Ctr,115-57 St,1.67,2.52
+466,103-47-50 Sts - Rockefeller Ctr,129-7 Av,1.55,3.33
+1238,103-47-50 Sts - Rockefeller Ctr,98-42 St - Bryant Pk,1.5,1.21
+819,104-49 St,116-57 St - 7 Av,1.98,2.42
+821,104-49 St,445-Times Sq - 42 St,1.5,1.83
+733,105-5 Av,308-Grand Central - 42 St,1.39,1.9
+733,105-5 Av,445-Times Sq - 42 St,1.64,2.24
+110,106-5 Av/53 St,103-47-50 Sts - Rockefeller Ctr,2.54,23.09
+415,106-5 Av/53 St,129-7 Av,1.79,4.31
+520,106-5 Av/53 St,355-Lexington Av/53 St,1.57,3.02
+757,107-5 Av/59 St,116-57 St - 7 Av,2.53,3.34
+757,107-5 Av/59 St,356-Lexington Av/59 St,1.57,2.07
+368,108-50 St,114-55 St,1.98,5.38
+368,108-50 St,295-Fort Hamilton Pkwy,1.5,4.08
+337,109-50 St,119-59 St - Columbus Circle,2.04,6.05
+415,109-50 St,129-7 Av,1.63,3.93
+752,109-50 St,99-42 St - Port Authority Bus Terminal,2.04,2.71
+785,11-116 St,17-125 St,1.5,1.91
+785,11-116 St,239-Central Park North (110 St),1,1.27
+581,110-50 St,119-59 St - Columbus Circle,2.04,3.51
+576,110-50 St,445-Times Sq - 42 St,1.59,2.76
+602,111-51 St,118-59 St,1.5,2.49
+605,111-51 St,310-Grand Central - 42 St,2.26,3.74
+690,112-52 St,101-46 St,1,1.45
+668,112-52 St,472-Woodside - 61 St,1.91,2.86
+433,113-53 St,100-45 St,1.56,3.6
+466,113-53 St,117-59 St,1.52,3.26
+368,114-55 St,108-50 St,1.59,4.32
+368,114-55 St,121-62 St,1.52,4.13
+662,115-57 St,103-47-50 Sts - Rockefeller Ctr,1.51,2.28
+662,115-57 St,357-Lexington Av/63 St,3.04,4.59
+821,116-57 St - 7 Av,104-49 St,1.68,2.05
+757,116-57 St - 7 Av,107-5 Av/59 St,2.53,3.34
+436,116-57 St - 7 Av,357-Lexington Av/63 St,2.5,5.73
+372,116-57 St - 7 Av,445-Times Sq - 42 St,2.69,7.23
+433,117-59 St,113-53 St,1.59,3.67
+376,117-59 St,143-8 Av,3,7.98
+355,117-59 St,190-Bay Ridge Av,2.15,6.06
+296,117-59 St,93-36 St,4.5,15.2
+605,118-59 St,111-51 St,1.78,2.94
+602,118-59 St,126-68 St - Hunter College,1.75,2.91
+694,118-59 St,154-86 St,3.56,5.13
+691,118-59 St,310-Grand Central - 42 St,2.67,3.86
+337,119-59 St - Columbus Circle,109-50 St,1.63,4.84
+576,119-59 St - Columbus Circle,110-50 St,2,3.47
+581,119-59 St - Columbus Circle,124-66 St - Lincoln Center,1.5,2.58
+466,119-59 St - Columbus Circle,129-7 Av,1.92,4.12
+435,119-59 St - Columbus Circle,134-72 St,1.5,3.45
+698,119-59 St - Columbus Circle,18-125 St,8.02,11.49
+330,119-59 St - Columbus Circle,99-42 St - Port Authority Bus Terminal,2.81,8.52
+435,12-116 St,18-125 St,1.62,3.72
+435,12-116 St,237-Cathedral Pkwy (110 St),1.5,3.45
+386,120-6 Av,142-8 Av,1.02,2.64
+386,120-6 Av,449-Union Sq - 14 St,3.94,10.21
+368,121-62 St,114-55 St,1.91,5.19
+368,121-62 St,131-71 St,2,5.43
+462,122-63 Dr - Rego Park,125-67 Av,1.96,4.24
+475,122-63 Dr - Rego Park,470-Woodhaven Blvd,1.24,2.61
+462,123-65 St,335-Jackson Hts - Roosevelt Av,2.99,6.47
+475,123-65 St,390-Northern Blvd,1.53,3.22
+576,124-66 St - Lincoln Center,119-59 St - Columbus Circle,1.5,2.6
+581,124-66 St - Lincoln Center,133-72 St,1.05,1.81
+475,125-67 Av,122-63 Dr - Rego Park,1.79,3.77
+462,125-67 Av,292-Forest Hills - 71 Av,1.81,3.92
+605,126-68 St - Hunter College,118-59 St,1.56,2.58
+602,126-68 St - Hunter College,139-77 St,1.75,2.91
+668,127-69 St,135-74 St - Broadway,1.53,2.29
+690,127-69 St,472-Woodside - 61 St,2.03,2.94
+2,128-7 Av,205-Bergen St,4,2000
+2,128-7 Av,245-Church Av,4,2000
+809,128-7 Av,33-15 St - Prospect Park,1.5,1.85
+807,128-7 Av,96-4 Av,1.95,2.42
+466,129-7 Av,103-47-50 Sts - Rockefeller Ctr,1.64,3.52
+415,129-7 Av,106-5 Av/53 St,1.14,2.75
+415,129-7 Av,109-50 St,3.77,9.08
+466,129-7 Av,119-59 St - Columbus Circle,2.1,4.51
+602,13-116 St,16-125 St,1.6,2.66
+605,13-116 St,7-110 St,1.47,2.43
+527,130-7 Av,174-Atlantic Av - Barclays Ctr,2.13,4.04
+528,130-7 Av,414-Prospect Park,4.58,8.67
+368,131-71 St,121-62 St,2,5.43
+368,131-71 St,140-79 St,1.91,5.19
+693,132-72 St,150-86 St,2.41,3.48
+693,132-72 St,357-Lexington Av/63 St,2.02,2.91
+576,133-72 St,124-66 St - Lincoln Center,1.5,2.6
+581,133-72 St,141-79 St,1.8,3.1
+727,133-72 St,161-96 St,2.95,4.06
+732,133-72 St,445-Times Sq - 42 St,4.45,6.08
+435,134-72 St,119-59 St - Columbus Circle,1.74,4
+435,134-72 St,146-81 St - Museum of Natural History,1.5,3.45
+690,135-74 St - Broadway,127-69 St,1.5,2.17
+668,135-74 St - Broadway,147-82 St - Jackson Hts,1,1.5
+686,136-75 Av,292-Forest Hills - 71 Av,1.96,2.86
+686,136-75 Av,344-Kew Gardens - Union Tpke,1.5,2.19
+349,137-75 St,148-85 St - Forest Pkwy,1.5,4.3
+6,137-75 St,261-Crescent St,2.5,416.67
+344,137-75 St,264-Cypress Hills,1.16,3.37
+6,137-75 St,469-Woodhaven Blvd,3,500
+355,138-77 St,151-86 St,3.81,10.73
+353,138-77 St,190-Bay Ridge Av,1.5,4.25
+605,139-77 St,126-68 St - Hunter College,1.98,3.27
+602,139-77 St,154-86 St,1.69,2.81
+523,14-116 St - Columbia University,19-125 St,2.29,4.38
+523,14-116 St - Columbia University,236-Cathedral Pkwy,1,1.91
+368,140-79 St,131-71 St,1.52,4.13
+368,140-79 St,50-18 Av,1.5,4.08
+576,141-79 St,133-72 St,1.5,2.6
+581,141-79 St,152-86 St,1.21,2.08
+386,142-8 Av,120-6 Av,1.5,3.89
+376,143-8 Av,117-59 St,3,7.98
+376,143-8 Av,293-Fort Hamilton Pkwy,1.5,3.99
+710,144-8 St - NYU,27-14 St - Union Sq,1.5,2.11
+711,144-8 St - NYU,410-Prince St,1.94,2.73
+472,145-80 St,155-88 St,1.45,3.07
+464,145-80 St,313-Grant Av,1.46,3.15
+435,146-81 St - Museum of Natural History,134-72 St,1.5,3.45
+435,146-81 St - Museum of Natural History,149-86 St,1.5,3.45
+690,147-82 St - Jackson Hts,135-74 St - Broadway,1.01,1.46
+668,147-82 St - Jackson Hts,158-90 St - Elmhurst Av,1.04,1.56
+344,148-85 St - Forest Pkwy,137-75 St,1.5,4.36
+7,148-85 St - Forest Pkwy,264-Cypress Hills,2.5,357.14
+354,148-85 St - Forest Pkwy,469-Woodhaven Blvd,1.84,5.2
+435,149-86 St,146-81 St - Museum of Natural History,1.5,3.45
+435,149-86 St,159-96 St,1.5,3.45
+355,15-121 St,442-Sutphin Blvd - Archer Av - JFK Airport,4,11.27
+6,15-121 St,5-104 St,3,500
+344,15-121 St,9-111 St,1.5,4.36
+693,150-86 St,132-72 St,2.04,2.94
+693,150-86 St,160-96 St,1.63,2.35
+353,151-86 St,138-77 St,2.07,5.86
+355,151-86 St,189-Bay Ridge - 95 St,2,5.63
+576,152-86 St,141-79 St,1.03,1.79
+581,152-86 St,161-96 St,1.84,3.17
+376,153-86 St,181-Avenue U,1,2.66
+371,153-86 St,255-Coney Island - Stillwell Av,4,10.78
+691,154-86 St,118-59 St,4.05,5.86
+605,154-86 St,139-77 St,1.81,2.99
+694,154-86 St,16-125 St,5.22,7.52
+602,154-86 St,162-96 St,2,3.32
+464,155-88 St,145-80 St,1.49,3.21
+472,155-88 St,422-Rockaway Blvd,1.45,3.07
+368,156-9 Av,295-Fort Hamilton Pkwy,2.02,5.49
+368,156-9 Av,93-36 St,4.01,10.9
+501,157-9 St,413-Prospect Av,1.97,3.93
+514,157-9 St,450-Union St,1.64,3.19
+690,158-90 St - Elmhurst Av,147-82 St - Jackson Hts,1.02,1.48
+668,158-90 St - Elmhurst Av,342-Junction Blvd,1.33,1.99
+435,159-96 St,149-86 St,1.52,3.49
+435,159-96 St,2-103 St,1.5,3.45
+605,16-125 St,13-116 St,1.53,2.53
+691,16-125 St,154-86 St,4.73,6.85
+720,16-125 St,23-138 St - Grand Concourse,2.61,3.63
+18,16-125 St,32-149 St - Grand Concourse,4.86,270
+558,16-125 St,83-3 Av - 138 St,3.17,5.68
+693,160-96 St,150-86 St,2,2.89
+732,161-96 St,133-72 St,2.97,4.06
+576,161-96 St,152-86 St,2,3.47
+785,161-96 St,239-Central Park North (110 St),4.37,5.57
+523,161-96 St,3-103 St,1.5,2.87
+602,162-96 St,1-103 St,1.5,2.49
+605,162-96 St,154-86 St,2.08,3.44
+357,163-Alabama Av,220-Broadway Jct,2.74,7.68
+5,163-Alabama Av,251-Cleveland St,2.5,500
+355,163-Alabama Av,453-Van Siclen Av,1.49,4.2
+436,164-Allerton Av,226-Burke Av,1.2,2.75
+436,164-Allerton Av,405-Pelham Pkwy,2.03,4.66
+232,166-Aqueduct - N Conduit Av,167-Aqueduct Racetrack,0.97,4.18
+238,166-Aqueduct - N Conduit Av,326-Howard Beach - JFK Airport,2.07,8.7
+232,167-Aqueduct Racetrack,422-Rockaway Blvd,3.09,13.32
+605,169-Astor Pl,209-Bleecker St,1.45,2.4
+602,169-Astor Pl,27-14 St - Union Sq,1.47,2.44
+785,17-125 St,11-116 St,1.5,1.91
+785,17-125 St,20-135 St,1.72,2.19
+461,170-Astoria - Ditmars Blvd,171-Astoria Blvd,1.5,3.25
+461,171-Astoria Blvd,170-Astoria - Ditmars Blvd,1.75,3.8
+461,171-Astoria Blvd,85-30 Av,1.22,2.65
+505,173-Atlantic Av,220-Broadway Jct,2.85,5.64
+501,173-Atlantic Av,443-Sutter Av,1.5,2.99
+528,174-Atlantic Av - Barclays Ctr,130-7 Av,2.32,4.39
+822,174-Atlantic Av - Barclays Ctr,206-Bergen St,1.07,1.3
+296,174-Atlantic Av - Barclays Ctr,229-Canal St,10.66,36.01
+1041,174-Atlantic Av - Barclays Ctr,265-DeKalb Av,2.44,2.34
+467,174-Atlantic Av - Barclays Ctr,296-Franklin Av,4.12,8.82
+291,174-Atlantic Av - Barclays Ctr,312-Grand St,11.49,39.48
+1289,174-Atlantic Av - Barclays Ctr,383-Nevins St,1.65,1.28
+501,174-Atlantic Av - Barclays Ctr,450-Union St,2,3.99
+599,174-Atlantic Av - Barclays Ctr,93-36 St,5.5,9.18
+430,175-Avenue H,177-Avenue J,1.27,2.95
+429,175-Avenue H,389-Newkirk Plaza,1.21,2.82
+404,176-Avenue I,188-Bay Pkwy,1,2.48
+404,176-Avenue I,51-18 Av,1.23,3.04
+429,177-Avenue J,175-Avenue H,1.29,3.01
+430,177-Avenue J,178-Avenue M,1.73,4.02
+429,178-Avenue M,177-Avenue J,1.71,3.99
+430,178-Avenue M,347-Kings Hwy,2.3,5.35
+404,179-Avenue N,180-Avenue P,1.5,3.71
+404,179-Avenue N,188-Bay Pkwy,1.55,3.84
+698,18-125 St,119-59 St - Columbus Circle,8.04,11.52
+435,18-125 St,12-116 St,1.5,3.45
+437,18-125 St,21-135 St,1.78,4.07
+328,18-125 St,28-145 St,3,9.15
+368,18-125 St,30-145 St,4.61,12.53
+404,180-Avenue P,179-Avenue N,1.5,3.71
+404,180-Avenue P,345-Kings Hwy,5.35,13.24
+376,181-Avenue U,153-86 St,2.3,6.12
+376,181-Avenue U,346-Kings Hwy,1.53,4.07
+366,182-Avenue U,184-Avenue X,5.99,16.37
+372,182-Avenue U,345-Kings Hwy,2.16,5.81
+429,183-Avenue U,347-Kings Hwy,2.3,5.36
+430,183-Avenue U,380-Neck Rd,1,2.33
+372,184-Avenue X,182-Avenue U,1.56,4.19
+366,184-Avenue X,381-Neptune Av,2.02,5.52
+368,185-Bay 50 St,255-Coney Island - Stillwell Av,4,10.87
+368,185-Bay 50 St,77-25 Av,2.41,6.55
+368,186-Bay Pkwy,61-20 Av,1.02,2.77
+368,186-Bay Pkwy,77-25 Av,1.5,4.08
+376,187-Bay Pkwy,346-Kings Hwy,2,5.32
+376,187-Bay Pkwy,62-20 Av,1.5,3.99
+404,188-Bay Pkwy,176-Avenue I,1,2.48
+404,188-Bay Pkwy,179-Avenue N,2,4.95
+353,189-Bay Ridge - 95 St,151-86 St,1.82,5.16
+523,19-125 St,14-116 St - Columbia University,2.47,4.72
+523,19-125 St,22-137 St - City College,2,3.82
+353,190-Bay Ridge Av,117-59 St,2.36,6.69
+355,190-Bay Ridge Av,138-77 St,1.39,3.92
+351,192-Baychester Av,277-Eastchester - Dyre Av,2.43,6.92
+354,192-Baychester Av,318-Gun Hill Rd,2.44,6.89
+246,193-Beach 105 St,200-Beach 98 St,1.98,8.05
+245,193-Beach 105 St,423-Rockaway Park - Beach 116 St,1.52,6.2
+227,194-Beach 25 St,195-Beach 36 St,1.98,8.72
+233,194-Beach 25 St,284-Far Rockaway - Mott Av,1.5,6.44
+233,195-Beach 36 St,194-Beach 25 St,2,8.58
+227,195-Beach 36 St,196-Beach 44 St,1.5,6.61
+233,196-Beach 44 St,195-Beach 36 St,1.5,6.44
+227,196-Beach 44 St,197-Beach 60 St,2.02,8.9
+233,197-Beach 60 St,196-Beach 44 St,2,8.58
+227,197-Beach 60 St,198-Beach 67 St,1.54,6.78
+233,198-Beach 67 St,197-Beach 60 St,4.06,17.42
+227,198-Beach 67 St,216-Broad Channel,4,17.62
+245,199-Beach 90 St,200-Beach 98 St,1.5,6.12
+246,199-Beach 90 St,216-Broad Channel,5.94,24.15
+435,2-103 St,159-96 St,1.48,3.4
+435,2-103 St,237-Cathedral Pkwy (110 St),1,2.3
+785,20-135 St,17-125 St,1.65,2.1
+361,20-135 St,29-145 St,3.27,9.06
+424,20-135 St,32-149 St - Grand Concourse,3.34,7.88
+245,200-Beach 98 St,193-Beach 105 St,1.01,4.12
+246,200-Beach 98 St,199-Beach 90 St,1.52,6.18
+406,201-Bedford - Nostrand Avs,250-Classon Av,1,2.46
+404,201-Bedford - Nostrand Avs,375-Myrtle - Willoughby Avs,1.83,4.53
+386,202-Bedford Av,0-1 Av,4,10.36
+386,202-Bedford Av,362-Lorimer St,2.62,6.79
+410,203-Bedford Park Blvd,349-Kingsbridge Rd,1.97,4.8
+365,203-Bedford Park Blvd,391-Norwood - 205 St,2.5,6.85
+451,204-Bedford Park Blvd - Lehman College,348-Kingsbridge Rd,2.15,4.77
+434,204-Bedford Park Blvd - Lehman College,373-Mosholu Pkwy,1.69,3.89
+2,205-Bergen St,128-7 Av,5,2500
+809,205-Bergen St,234-Carroll St,1.59,1.97
+404,205-Bergen St,327-Hoyt - Schermerhorn Sts,2.06,5.1
+405,205-Bergen St,339-Jay St - MetroTech,2.49,6.15
+788,206-Bergen St,174-Atlantic Av - Barclays Ctr,1.2,1.52
+822,206-Bergen St,306-Grand Army Plaza,1.82,2.21
+429,207-Beverley Rd,246-Church Av,1.5,3.5
+430,207-Beverley Rd,256-Cortelyou Rd,0.78,1.81
+528,208-Beverly Rd,247-Church Av,1.57,2.97
+527,208-Beverly Rd,388-Newkirk Av,1.5,2.85
+602,209-Bleecker St,169-Astor Pl,1.5,2.49
+605,209-Bleecker St,435-Spring St,1.02,1.69
+440,21-135 St,18-125 St,1.54,3.5
+340,21-135 St,28-145 St,4.5,13.24
+97,21-135 St,30-145 St,2.05,21.13
+573,210-Borough Hall,213-Bowling Green,5.2,9.08
+716,210-Borough Hall,249-Clark St,1.65,2.3
+716,210-Borough Hall,328-Hoyt St,1.49,2.08
+573,210-Borough Hall,383-Nevins St,2,3.49
+330,211-Botanic Garden,399-Park Pl,2,6.06
+330,211-Botanic Garden,414-Prospect Park,3,9.09
+362,212-Bowery,231-Canal St,1.51,4.17
+362,212-Bowery,282-Essex St,1.73,4.78
+573,213-Bowling Green,210-Borough Hall,5.27,9.2
+738,213-Bowling Green,462-Wall St,1.22,1.65
+279,214-Briarwood - Van Wyck Blvd,337-Jamaica - Van Wyck,1.5,5.38
+686,214-Briarwood - Van Wyck Blvd,344-Kew Gardens - Union Tpke,1.89,2.76
+407,214-Briarwood - Van Wyck Blvd,441-Sutphin Blvd,1.38,3.39
+430,215-Brighton Beach,396-Ocean Pkwy,2,4.65
+527,215-Brighton Beach,428-Sheepshead Bay,2,3.8
+233,216-Broad Channel,198-Beach 67 St,6.6,28.33
+245,216-Broad Channel,199-Beach 90 St,4.04,16.49
+232,216-Broad Channel,326-Howard Beach - JFK Airport,6.6,28.45
+362,217-Broad St,303-Fulton St,1.56,4.31
+406,218-Broadway,287-Flushing Av,1.22,3
+404,218-Broadway,365-Metropolitan Av,1.39,3.44
+461,219-Broadway,85-30 Av,1.75,3.8
+461,219-Broadway,92-36 Av,2,4.34
+523,22-137 St - City College,19-125 St,1.53,2.93
+519,22-137 St - City College,31-145 St,1.5,2.89
+360,220-Broadway Jct,163-Alabama Av,1.98,5.5
+501,220-Broadway Jct,173-Atlantic Av,1.28,2.55
+505,220-Broadway Jct,228-Bushwick Av - Aberdeen St,1,1.98
+355,220-Broadway Jct,243-Chauncey St,1.49,4.2
+329,220-Broadway Jct,283-Euclid Av,4.15,12.61
+7,220-Broadway Jct,320-Halsey St,2.5,357.14
+338,220-Broadway Jct,358-Liberty Av,2,5.92
+337,220-Broadway Jct,421-Rockaway Av,1.01,3
+330,220-Broadway Jct,451-Utica Av,3.48,10.55
+367,221-Broadway-Lafayette St,282-Essex St,3.45,9.4
+466,221-Broadway-Lafayette St,312-Grand St,2,4.29
+1233,221-Broadway-Lafayette St,457-W 4 St,2.44,1.98
+405,221-Broadway-Lafayette St,60-2 Av,1.5,3.7
+436,222-Bronx Park East,275-E 180 St,2.03,4.66
+436,222-Bronx Park East,405-Pelham Pkwy,2.15,4.93
+491,223-Brook Av,263-Cypress Av,1,2.04
+504,223-Brook Av,83-3 Av - 138 St,1.53,3.04
+602,224-Brooklyn Bridge - City Hall,229-Canal St,2,3.32
+694,224-Brooklyn Bridge - City Hall,27-14 St - Union Sq,4.79,6.9
+738,224-Brooklyn Bridge - City Hall,303-Fulton St,1.7,2.3
+455,225-Buhre Av,368-Middletown Rd,1.5,3.3
+458,225-Buhre Av,404-Pelham Bay Park,2.5,5.46
+436,226-Burke Av,164-Allerton Av,1.23,2.82
+436,226-Burke Av,319-Gun Hill Rd,1.59,3.65
+452,227-Burnside Av,49-176 St,1.52,3.36
+438,227-Burnside Av,57-183 St,1.5,3.42
+503,228-Bushwick Av - Aberdeen St,220-Broadway Jct,2.27,4.51
+505,228-Bushwick Av - Aberdeen St,467-Wilson Av,1.5,2.97
+303,229-Canal St,174-Atlantic Av - Barclays Ctr,11.41,37.66
+605,229-Canal St,224-Brooklyn Bridge - City Hall,2,3.31
+455,229-Canal St,248-City Hall,2.5,5.49
+435,229-Canal St,265-DeKalb Av,8.11,18.64
+483,229-Canal St,27-14 St - Union Sq,4.22,8.74
+710,229-Canal St,410-Prince St,1.68,2.37
+602,229-Canal St,435-Spring St,1.5,2.49
+711,23-138 St - Grand Concourse,16-125 St,2.81,3.95
+720,23-138 St - Grand Concourse,32-149 St - Grand Concourse,2.81,3.9
+576,230-Canal St,298-Franklin St,1,1.74
+581,230-Canal St,325-Houston St,1.6,2.75
+362,231-Canal St,212-Bowery,2.01,5.55
+362,231-Canal St,242-Chambers St,1.51,4.17
+667,232-Canal St,241-Chambers St,2,3
+752,232-Canal St,434-Spring St,1.5,1.99
+330,232-Canal St,457-W 4 St,2.51,7.61
+415,232-Canal St,473-World Trade Center,2,4.82
+483,233-Canarsie - Rockaway Pkwy,272-E 105 St,1.62,3.35
+807,234-Carroll St,205-Bergen St,1.51,1.87
+809,234-Carroll St,431-Smith - 9 Sts,1.74,2.15
+455,235-Castle Hill Av,401-Parkchester,2,4.4
+458,235-Castle Hill Av,475-Zerega Av,1,2.18
+523,236-Cathedral Pkwy,14-116 St - Columbia University,1,1.91
+523,236-Cathedral Pkwy,3-103 St,1.03,1.97
+435,237-Cathedral Pkwy (110 St),12-116 St,1.5,3.45
+435,237-Cathedral Pkwy (110 St),2-103 St,1.02,2.34
+419,238-Central Av,352-Knickerbocker Av,1.63,3.89
+415,238-Central Av,377-Myrtle Av,2.23,5.37
+785,239-Central Park North (110 St),11-116 St,1,1.27
+785,239-Central Park North (110 St),161-96 St,4.45,5.67
+663,24-14 St,240-Chambers St,4.59,6.92
+576,24-14 St,244-Christopher St - Sheridan Sq,1.5,2.6
+581,24-14 St,53-18 St,1,1.72
+658,24-14 St,90-34 St - Penn Station,2.8,4.26
+658,240-Chambers St,24-14 St,4.67,7.1
+581,240-Chambers St,298-Franklin St,1.41,2.43
+716,240-Chambers St,400-Park Pl,1.22,1.7
+523,240-Chambers St,459-WTC Cortlandt,1.51,2.89
+667,241-Chambers St,232-Canal St,1.54,2.31
+667,241-Chambers St,303-Fulton St,2,3
+362,242-Chambers St,231-Canal St,2,5.52
+362,242-Chambers St,303-Fulton St,1.36,3.76
+357,243-Chauncey St,220-Broadway Jct,1.96,5.49
+6,243-Chauncey St,304-Gates Av,2.5,416.67
+349,243-Chauncey St,320-Halsey St,1.5,4.3
+581,244-Christopher St - Sheridan Sq,24-14 St,1.51,2.6
+576,244-Christopher St - Sheridan Sq,325-Houston St,1.52,2.64
+2,245-Church Av,128-7 Av,3,1500
+404,245-Church Av,268-Ditmas Av,2,4.95
+807,245-Church Av,294-Fort Hamilton Pkwy,1.68,2.08
+430,246-Church Av,207-Beverley Rd,1.51,3.51
+98,246-Church Av,389-Newkirk Plaza,2.5,25.51
+429,246-Church Av,402-Parkside Av,1.5,3.5
+98,246-Church Av,414-Prospect Park,2.61,26.63
+527,247-Church Av,208-Beverly Rd,1.51,2.87
+528,247-Church Av,468-Winthrop St,1.44,2.73
+457,248-City Hall,229-Canal St,3.27,7.16
+455,248-City Hall,257-Cortlandt St,2,4.4
+716,249-Clark St,210-Borough Hall,1.13,1.58
+716,249-Clark St,461-Wall St,3.57,4.99
+1082,25-14 St,457-W 4 St,2.07,1.91
+752,25-14 St,69-23 St,1.5,1.99
+330,25-14 St,91-34 St - Penn Station,3.04,9.21
+404,250-Classon Av,201-Bedford - Nostrand Avs,1.02,2.52
+406,250-Classon Av,253-Clinton - Washington Avs,1.5,3.69
+7,251-Cleveland St,163-Alabama Av,2.5,357.14
+5,251-Cleveland St,261-Crescent St,2.5,500
+349,251-Cleveland St,392-Norwood Av,1,2.87
+344,251-Cleveland St,453-Van Siclen Av,1.5,4.36
+404,253-Clinton - Washington Avs,250-Classon Av,1.5,3.71
+406,253-Clinton - Washington Avs,302-Fulton St,1.5,3.69
+338,254-Clinton - Washington Avs,297-Franklin Av,1.51,4.47
+337,254-Clinton - Washington Avs,354-Lafayette Av,1.5,4.45
+363,255-Coney Island - Stillwell Av,153-86 St,4.21,11.6
+368,255-Coney Island - Stillwell Av,185-Bay 50 St,4.03,10.95
+794,255-Coney Island - Stillwell Av,458-W 8 St - NY Aquarium,1.5,1.89
+429,256-Cortelyou Rd,207-Beverley Rd,0.82,1.91
+430,256-Cortelyou Rd,389-Newkirk Plaza,1.51,3.51
+457,257-Cortlandt St,248-City Hall,1.94,4.25
+455,257-Cortlandt St,418-Rector St,1.53,3.36
+406,258-Court Sq,64-21 St,1,2.46
+733,259-Court Sq,330-Hunters Point Av,1.99,2.71
+525,259-Court Sq,355-Lexington Av/53 St,3.2,6.1
+520,259-Court Sq,415-Queens Plaza,1.64,3.15
+733,259-Court Sq,416-Queensboro Plaza,1.54,2.1
+772,26-14 St,457-W 4 St,1.62,2.1
+767,26-14 St,73-23 St,1.52,1.98
+424,260-Court St,339-Jay St - MetroTech,2.02,4.76
+426,260-Court St,465-Whitehall St,3.92,9.2
+6,261-Crescent St,137-75 St,2.5,416.67
+7,261-Crescent St,251-Cleveland St,2.5,357.14
+354,261-Crescent St,264-Cypress Hills,1.83,5.17
+350,261-Crescent St,392-Norwood Av,1.98,5.66
+375,262-Crown Hts - Utica Av,296-Franklin Av,3.41,9.09
+386,262-Crown Hts - Utica Av,351-Kingston Av,2.09,5.41
+388,262-Crown Hts - Utica Av,444-Sutter Av - Rutland Rd,2.65,6.83
+504,263-Cypress Av,223-Brook Av,1.03,2.04
+491,263-Cypress Av,273-E 143 St - St Mary's St,2,4.07
+349,264-Cypress Hills,137-75 St,1.17,3.35
+5,264-Cypress Hills,148-85 St - Forest Pkwy,2.5,500
+351,264-Cypress Hills,261-Crescent St,1.84,5.24
+1029,265-DeKalb Av,174-Atlantic Av - Barclays Ctr,2.34,2.27
+440,265-DeKalb Av,229-Canal St,8.23,18.7
+175,265-DeKalb Av,312-Grand St,8.08,46.17
+426,265-DeKalb Av,339-Jay St - MetroTech,1.52,3.57
+514,266-DeKalb Av,341-Jefferson St,1.45,2.82
+514,266-DeKalb Av,376-Myrtle - Wyckoff Avs,1.77,3.44
+405,267-Delancey St,276-East Broadway,1.5,3.7
+405,267-Delancey St,60-2 Av,1.51,3.73
+404,268-Ditmas Av,245-Church Av,2,4.95
+404,268-Ditmas Av,51-18 Av,2,4.95
+711,27-14 St - Union Sq,144-8 St - NYU,1.6,2.25
+605,27-14 St - Union Sq,169-Astor Pl,1.5,2.48
+691,27-14 St - Union Sq,224-Brooklyn Bridge - City Hall,5.15,7.45
+482,27-14 St - Union Sq,229-Canal St,4.1,8.51
+694,27-14 St - Union Sq,310-Grand Central - 42 St,4,5.76
+710,27-14 St - Union Sq,70-23 St,1.74,2.45
+602,27-14 St - Union Sq,72-23 St,1.97,3.27
+483,27-14 St - Union Sq,89-34 St - Herald Sq,3.56,7.37
+404,270-Dyckman St,333-Inwood - 207 St,1.75,4.33
+407,270-Dyckman St,58-190 St,2.13,5.23
+517,271-Dyckman St,59-191 St,1.5,2.9
+519,271-Dyckman St,63-207 St,1.5,2.89
+501,272-E 105 St,233-Canarsie - Rockaway Pkwy,1.5,2.99
+505,272-E 105 St,385-New Lots Av,2.13,4.22
+504,273-E 143 St - St Mary's St,263-Cypress Av,2,3.97
+491,273-E 143 St - St Mary's St,274-E 149 St,1.45,2.95
+504,274-E 149 St,273-E 143 St - St Mary's St,1.01,2
+491,274-E 149 St,360-Longwood Av,1.55,3.16
+436,275-E 180 St,222-Bronx Park East,2.01,4.61
+2,275-E 180 St,319-Gun Hill Rd,8,4000
+351,275-E 180 St,371-Morris Park,3.5,9.97
+677,275-E 180 St,463-West Farms Sq - E Tremont Av,1.66,2.45
+33,275-E 180 St,84-3 Av - 149 St,12.55,380.3
+405,276-East Broadway,267-Delancey St,1.23,3.04
+405,276-East Broadway,474-York St,2.71,6.69
+354,277-Eastchester - Dyre Av,192-Baychester Av,2.17,6.13
+822,278-Eastern Pkwy - Brooklyn Museum,296-Franklin Av,1.64,2
+788,278-Eastern Pkwy - Brooklyn Museum,306-Grand Army Plaza,1.89,2.4
+482,279-Elder Av,372-Morrison Av- Sound View,1,2.07
+515,279-Elder Av,466-Whitlock Av,1.8,3.5
+325,28-145 St,18-125 St,3.53,10.86
+342,28-145 St,21-135 St,2,5.85
+337,28-145 St,35-155 St,1.5,4.45
+330,28-145 St,41-168 St,5.33,16.15
+462,280-Elmhurst Av,307-Grand Av - Newtown,1.61,3.48
+475,280-Elmhurst Av,335-Jackson Hts - Roosevelt Av,1.74,3.66
+362,282-Essex St,212-Bowery,1.5,4.14
+362,282-Essex St,221-Broadway-Lafayette St,4.85,13.4
+740,282-Essex St,364-Marcy Av,8.49,11.47
+330,283-Euclid Av,220-Broadway Jct,4.14,12.55
+472,283-Euclid Av,313-Grant Av,1.65,3.5
+337,283-Euclid Av,429-Shepherd Av,1.53,4.54
+227,284-Far Rockaway - Mott Av,194-Beach 25 St,1.52,6.7
+528,285-Flatbush Av - Brooklyn College,388-Newkirk Av,2.17,4.11
+704,286-Flushing - Main St,366-Mets - Willets Point,2.58,3.66
+404,287-Flushing Av,218-Broadway,1.44,3.56
+406,287-Flushing Av,375-Myrtle - Willoughby Avs,1.48,3.65
+679,288-Flushing Av,361-Lorimer St,1.5,2.21
+694,288-Flushing Av,377-Myrtle Av,1.19,1.71
+438,289-Fordham Rd,348-Kingsbridge Rd,1.2,2.74
+452,289-Fordham Rd,57-183 St,1.16,2.57
+361,29-145 St,20-135 St,2.03,5.62
+361,29-145 St,322-Harlem - 148 St,2,5.54
+404,290-Fordham Rd,349-Kingsbridge Rd,1.5,3.71
+21,290-Fordham Rd,448-Tremont Av,2.5,119.05
+389,290-Fordham Rd,56-182-183 Sts,1.5,3.86
+419,291-Forest Av,300-Fresh Pond Rd,1.58,3.77
+415,291-Forest Av,427-Seneca Av,1.13,2.72
+475,292-Forest Hills - 71 Av,125-67 Av,1.74,3.66
+686,292-Forest Hills - 71 Av,136-75 Av,2,2.92
+751,292-Forest Hills - 71 Av,335-Jackson Hts - Roosevelt Av,7.1,9.45
+134,292-Forest Hills - 71 Av,344-Kew Gardens - Union Tpke,2.62,19.55
+376,293-Fort Hamilton Pkwy,143-8 Av,1.03,2.74
+376,293-Fort Hamilton Pkwy,387-New Utrecht Av,2,5.32
+809,294-Fort Hamilton Pkwy,245-Church Av,1.57,1.94
+807,294-Fort Hamilton Pkwy,33-15 St - Prospect Park,2.56,3.17
+368,295-Fort Hamilton Pkwy,108-50 St,1.5,4.08
+368,295-Fort Hamilton Pkwy,156-9 Av,2.41,6.55
+501,296-Franklin Av,174-Atlantic Av - Barclays Ctr,4.77,9.52
+359,296-Franklin Av,262-Crown Hts - Utica Av,3.87,10.78
+788,296-Franklin Av,278-Eastern Pkwy - Brooklyn Museum,1.7,2.16
+403,296-Franklin Av,393-Nostrand Av,1.51,3.75
+527,296-Franklin Av,409-President St,3,5.69
+337,297-Franklin Av,254-Clinton - Washington Avs,1.51,4.48
+338,297-Franklin Av,394-Nostrand Av,1.07,3.17
+330,297-Franklin Av,399-Park Pl,2,6.06
+581,298-Franklin St,230-Canal St,1,1.72
+576,298-Franklin St,240-Chambers St,2.45,4.25
+677,299-Freeman St,430-Simpson St,1.52,2.25
+666,299-Freeman St,46-174 St,2.17,3.26
+523,3-103 St,161-96 St,2,3.82
+523,3-103 St,236-Cathedral Pkwy,1.5,2.87
+368,30-145 St,18-125 St,3.52,9.57
+98,30-145 St,21-135 St,2.29,23.37
+386,30-145 St,34-155 St,1.5,3.89
+18,30-145 St,448-Tremont Av,10,555.56
+415,300-Fresh Pond Rd,291-Forest Av,1.63,3.93
+419,300-Fresh Pond Rd,367-Middle Village - Metropolitan Av,2.06,4.92
+716,301-Fulton St,400-Park Pl,2.33,3.25
+716,301-Fulton St,461-Wall St,1.22,1.7
+404,302-Fulton St,253-Clinton - Washington Avs,1.5,3.71
+406,302-Fulton St,327-Hoyt - Schermerhorn Sts,2.27,5.59
+362,303-Fulton St,217-Broad St,1.52,4.2
+738,303-Fulton St,224-Brooklyn Bridge - City Hall,1.72,2.33
+667,303-Fulton St,241-Chambers St,2,3
+362,303-Fulton St,242-Chambers St,1.52,4.2
+667,303-Fulton St,324-High St,3.04,4.56
+738,303-Fulton St,462-Wall St,1.53,2.07
+6,304-Gates Av,243-Chauncey St,2.5,416.67
+351,304-Gates Av,320-Halsey St,1.5,4.27
+349,304-Gates Av,353-Kosciuszko St,1.5,4.3
+6,304-Gates Av,377-Myrtle Av,3.17,528.33
+514,305-Graham Av,311-Grand St,1.5,2.92
+514,305-Graham Av,362-Lorimer St,2.02,3.93
+788,306-Grand Army Plaza,206-Bergen St,2.03,2.58
+822,306-Grand Army Plaza,278-Eastern Pkwy - Brooklyn Museum,1.64,2
+475,307-Grand Av - Newtown,280-Elmhurst Av,1.5,3.16
+462,307-Grand Av - Newtown,470-Woodhaven Blvd,1.99,4.31
+733,308-Grand Central - 42 St,105-5 Av,1.5,2.05
+733,308-Grand Central - 42 St,456-Vernon Blvd - Jackson Av,4.71,6.43
+646,309-Grand Central - 42 St,445-Times Sq - 42 St,1.5,2.32
+517,31-145 St,22-137 St - City College,1.61,3.11
+519,31-145 St,36-157 St,2,3.85
+602,310-Grand Central - 42 St,111-51 St,1.83,3.04
+694,310-Grand Central - 42 St,118-59 St,2.21,3.18
+691,310-Grand Central - 42 St,27-14 St - Union Sq,4.17,6.03
+605,310-Grand Central - 42 St,87-33 St,2,3.31
+514,311-Grand St,305-Graham Av,1.45,2.82
+514,311-Grand St,369-Montrose Av,1,1.95
+296,312-Grand St,174-Atlantic Av - Barclays Ctr,11.6,39.19
+466,312-Grand St,221-Broadway-Lafayette St,2.08,4.46
+170,312-Grand St,265-DeKalb Av,8.77,51.59
+472,313-Grant Av,145-80 St,1.5,3.18
+464,313-Grant Av,283-Euclid Av,2.06,4.44
+406,317-Greenpoint Av,379-Nassau Av,1.44,3.55
+404,317-Greenpoint Av,64-21 St,2.56,6.34
+351,318-Gun Hill Rd,192-Baychester Av,3.41,9.72
+354,318-Gun Hill Rd,406-Pelham Pkwy,2.67,7.54
+436,319-Gun Hill Rd,226-Burke Av,1.54,3.53
+436,319-Gun Hill Rd,67-219 St,1.6,3.67
+27,32-149 St - Grand Concourse,16-125 St,8.04,297.78
+424,32-149 St - Grand Concourse,20-135 St,3.3,7.78
+711,32-149 St - Grand Concourse,23-138 St - Grand Concourse,2.32,3.26
+452,32-149 St - Grand Concourse,37-161 St - Yankee Stadium,2.49,5.51
+710,32-149 St - Grand Concourse,84-3 Av - 149 St,2.13,3
+5,320-Halsey St,220-Broadway Jct,2.5,500
+351,320-Halsey St,243-Chauncey St,1.5,4.27
+349,320-Halsey St,304-Gates Av,1.5,4.3
+7,320-Halsey St,353-Kosciuszko St,2.5,357.14
+505,321-Halsey St,376-Myrtle - Wyckoff Avs,1.87,3.7
+503,321-Halsey St,467-Wilson Av,2.5,4.97
+358,322-Harlem - 148 St,29-145 St,1.71,4.78
+694,323-Hewes St,361-Lorimer St,1.5,2.16
+679,323-Hewes St,364-Marcy Av,1,1.47
+667,324-High St,303-Fulton St,3.09,4.63
+667,324-High St,339-Jay St - MetroTech,2.05,3.07
+576,325-Houston St,230-Canal St,1.68,2.92
+581,325-Houston St,244-Christopher St - Sheridan Sq,1.54,2.65
+232,326-Howard Beach - JFK Airport,166-Aqueduct - N Conduit Av,2.03,8.75
+238,326-Howard Beach - JFK Airport,216-Broad Channel,6.51,27.35
+406,327-Hoyt - Schermerhorn Sts,205-Bergen St,1.85,4.56
+404,327-Hoyt - Schermerhorn Sts,302-Fulton St,1.88,4.65
+667,327-Hoyt - Schermerhorn Sts,339-Jay St - MetroTech,1.54,2.31
+338,327-Hoyt - Schermerhorn Sts,354-Lafayette Av,2,5.92
+329,327-Hoyt - Schermerhorn Sts,394-Nostrand Av,4.96,15.08
+716,328-Hoyt St,210-Borough Hall,1.5,2.09
+716,328-Hoyt St,383-Nevins St,1.18,1.65
+807,33-15 St - Prospect Park,128-7 Av,1.68,2.08
+809,33-15 St - Prospect Park,294-Fort Hamilton Pkwy,2.43,3
+733,330-Hunters Point Av,259-Court Sq,1.99,2.71
+733,330-Hunters Point Av,456-Vernon Blvd - Jackson Av,1,1.36
+504,331-Hunts Point Av,360-Longwood Av,1.55,3.08
+72,331-Hunts Point Av,401-Parkchester,6.89,95.69
+482,331-Hunts Point Av,466-Whitlock Av,1.59,3.3
+50,331-Hunts Point Av,83-3 Av - 138 St,7.3,146
+677,332-Intervale Av,412-Prospect Av,1.44,2.13
+666,332-Intervale Av,430-Simpson St,1.08,1.62
+402,333-Inwood - 207 St,270-Dyckman St,1.58,3.93
+666,334-Jackson Av,412-Prospect Av,1.57,2.36
+677,334-Jackson Av,84-3 Av - 149 St,2.07,3.06
+475,335-Jackson Hts - Roosevelt Av,123-65 St,1.5,3.16
+462,335-Jackson Hts - Roosevelt Av,280-Elmhurst Av,1.8,3.9
+759,335-Jackson Hts - Roosevelt Av,292-Forest Hills - 71 Av,7.03,9.26
+346,335-Jackson Hts - Roosevelt Av,415-Queens Plaza,6.33,18.29
+405,335-Jackson Hts - Roosevelt Av,65-21 St - Queensbridge,6.69,16.52
+7,336-Jamaica - 179 St,403-Parsons Blvd,2.79,398.57
+405,336-Jamaica - 179 St,43-169 St,1.53,3.78
+281,337-Jamaica - Van Wyck,214-Briarwood - Van Wyck Blvd,1.5,5.34
+127,337-Jamaica - Van Wyck,344-Kew Gardens - Union Tpke,3.15,24.8
+408,337-Jamaica - Van Wyck,442-Sutphin Blvd - Archer Av - JFK Airport,7.76,19.02
+765,338-Jamaica Center - Parsons/Archer,442-Sutphin Blvd - Archer Av - JFK Airport,1.39,1.82
+405,339-Jay St - MetroTech,205-Bergen St,2.93,7.23
+426,339-Jay St - MetroTech,260-Court St,1.79,4.2
+424,339-Jay St - MetroTech,265-DeKalb Av,3.78,8.92
+667,339-Jay St - MetroTech,324-High St,2,3
+667,339-Jay St - MetroTech,327-Hoyt - Schermerhorn Sts,1.52,2.28
+405,339-Jay St - MetroTech,474-York St,1.5,3.7
+389,34-155 St,30-145 St,1.52,3.91
+386,34-155 St,37-161 St - Yankee Stadium,1.51,3.91
+514,341-Jefferson St,266-DeKalb Av,1.5,2.92
+514,341-Jefferson St,370-Morgan Av,2.05,3.99
+690,342-Junction Blvd,158-90 St - Elmhurst Av,1.48,2.14
+65,342-Junction Blvd,366-Mets - Willets Point,4.1,63.08
+668,342-Junction Blvd,4-103 St - Corona Plaza,1.04,1.56
+43,342-Junction Blvd,472-Woodside - 61 St,4.06,94.42
+388,343-Junius St,407-Pennsylvania Av,1.63,4.2
+391,343-Junius St,420-Rockaway Av,1.06,2.71
+686,344-Kew Gardens - Union Tpke,136-75 Av,1.51,2.2
+686,344-Kew Gardens - Union Tpke,214-Briarwood - Van Wyck Blvd,2.16,3.15
+134,344-Kew Gardens - Union Tpke,292-Forest Hills - 71 Av,2.58,19.25
+129,344-Kew Gardens - Union Tpke,337-Jamaica - Van Wyck,3.62,28.06
+5,344-Kew Gardens - Union Tpke,403-Parsons Blvd,3.7,740
+404,345-Kings Hwy,180-Avenue P,1.5,3.71
+366,345-Kings Hwy,182-Avenue U,2,5.46
+376,346-Kings Hwy,181-Avenue U,2,5.32
+376,346-Kings Hwy,187-Bay Pkwy,2,5.32
+429,347-Kings Hwy,178-Avenue M,2.31,5.38
+430,347-Kings Hwy,183-Avenue U,2.53,5.88
+98,347-Kings Hwy,389-Newkirk Plaza,4.56,46.53
+98,347-Kings Hwy,428-Sheepshead Bay,7.15,72.96
+438,348-Kingsbridge Rd,204-Bedford Park Blvd - Lehman College,2.15,4.91
+452,348-Kingsbridge Rd,289-Fordham Rd,1.18,2.61
+401,349-Kingsbridge Rd,203-Bedford Park Blvd,2.08,5.19
+410,349-Kingsbridge Rd,290-Fordham Rd,1.53,3.73
+337,35-155 St,28-145 St,1.5,4.45
+337,35-155 St,38-163 St - Amsterdam Av,1.5,4.45
+337,350-Kingston - Throop Avs,394-Nostrand Av,1.63,4.84
+338,350-Kingston - Throop Avs,451-Utica Av,1.58,4.67
+403,351-Kingston Av,262-Crown Hts - Utica Av,4.2,10.42
+386,351-Kingston Av,393-Nostrand Av,1.77,4.59
+415,352-Knickerbocker Av,238-Central Av,2,4.82
+419,352-Knickerbocker Av,376-Myrtle - Wyckoff Avs,2.92,6.97
+351,353-Kosciuszko St,304-Gates Av,1.5,4.27
+5,353-Kosciuszko St,320-Halsey St,2.5,500
+356,353-Kosciuszko St,377-Myrtle Av,1.52,4.27
+338,354-Lafayette Av,254-Clinton - Washington Avs,1.57,4.64
+337,354-Lafayette Av,327-Hoyt - Schermerhorn Sts,1.78,5.28
+525,355-Lexington Av/53 St,106-5 Av/53 St,1.58,3.01
+520,355-Lexington Av/53 St,259-Court Sq,3.1,5.96
+757,356-Lexington Av/59 St,107-5 Av/59 St,1.71,2.26
+296,356-Lexington Av/59 St,415-Queens Plaza,6.4,21.62
+461,356-Lexington Av/59 St,416-Queensboro Plaza,5.03,10.91
+662,357-Lexington Av/63 St,115-57 St,2.76,4.17
+436,357-Lexington Av/63 St,116-57 St - 7 Av,3.16,7.25
+693,357-Lexington Av/63 St,132-72 St,2,2.89
+405,357-Lexington Av/63 St,424-Roosevelt Island,2.54,6.27
+337,358-Liberty Av,220-Broadway Jct,2.27,6.74
+338,358-Liberty Av,454-Van Siclen Av,1.5,4.44
+501,359-Livonia Av,385-New Lots Av,1.5,2.99
+505,359-Livonia Av,443-Sutter Av,1.5,2.97
+517,36-157 St,31-145 St,2,3.87
+519,36-157 St,42-168 St - Washington Hts,1.59,3.06
+504,360-Longwood Av,274-E 149 St,1.99,3.95
+491,360-Longwood Av,331-Hunts Point Av,2.64,5.38
+694,361-Lorimer St,288-Flushing Av,1.5,2.16
+679,361-Lorimer St,323-Hewes St,1.02,1.5
+386,362-Lorimer St,202-Bedford Av,1.58,4.09
+514,362-Lorimer St,305-Graham Av,1,1.95
+517,363-Marble Hill - 225 St,66-215 St,1.5,2.9
+514,363-Marble Hill - 225 St,74-231 St,1.5,2.92
+724,364-Marcy Av,282-Essex St,7.51,10.37
+694,364-Marcy Av,323-Hewes St,1,1.44
+46,364-Marcy Av,377-Myrtle Av,4.35,94.57
+406,365-Metropolitan Av,218-Broadway,1.61,3.97
+404,365-Metropolitan Av,379-Nassau Av,3.14,7.77
+704,366-Mets - Willets Point,286-Flushing - Main St,3.5,4.97
+43,366-Mets - Willets Point,342-Junction Blvd,4.12,95.81
+670,366-Mets - Willets Point,8-111 St,1.55,2.31
+415,367-Middle Village - Metropolitan Av,300-Fresh Pond Rd,2.14,5.16
+458,368-Middletown Rd,225-Buhre Av,1.5,3.28
+455,368-Middletown Rd,464-Westchester Sq - E Tremont Av,1.53,3.36
+514,369-Montrose Av,311-Grand St,1,1.95
+514,369-Montrose Av,370-Morgan Av,1.81,3.52
+452,37-161 St - Yankee Stadium,32-149 St - Grand Concourse,2.82,6.24
+389,37-161 St - Yankee Stadium,34-155 St,1.51,3.88
+386,37-161 St - Yankee Stadium,39-167 St,2.5,6.48
+452,37-161 St - Yankee Stadium,40-167 St,1.83,4.05
+514,370-Morgan Av,341-Jefferson St,2,3.89
+514,370-Morgan Av,369-Montrose Av,1.81,3.52
+354,371-Morris Park,275-E 180 St,3.21,9.07
+351,371-Morris Park,406-Pelham Pkwy,1.14,3.25
+515,372-Morrison Av- Sound View,279-Elder Av,1,1.94
+482,372-Morrison Av- Sound View,437-St Lawrence Av,1.35,2.8
+439,373-Mosholu Pkwy,204-Bedford Park Blvd - Lehman College,1.71,3.9
+434,373-Mosholu Pkwy,471-Woodlawn,2,4.61
+452,374-Mt Eden Av,44-170 St,1.41,3.12
+438,374-Mt Eden Av,49-176 St,1.02,2.33
+406,375-Myrtle - Willoughby Avs,201-Bedford - Nostrand Avs,1.87,4.61
+404,375-Myrtle - Willoughby Avs,287-Flushing Av,1.49,3.69
+514,376-Myrtle - Wyckoff Avs,266-DeKalb Av,1.55,3.02
+503,376-Myrtle - Wyckoff Avs,321-Halsey St,1.5,2.98
+415,376-Myrtle - Wyckoff Avs,352-Knickerbocker Av,2,4.82
+419,376-Myrtle - Wyckoff Avs,427-Seneca Av,1.5,3.58
+419,377-Myrtle Av,238-Central Av,2.37,5.66
+679,377-Myrtle Av,288-Flushing Av,1.5,2.21
+6,377-Myrtle Av,304-Gates Av,3,500
+356,377-Myrtle Av,353-Kosciuszko St,1.52,4.27
+45,377-Myrtle Av,364-Marcy Av,4,88.89
+404,379-Nassau Av,317-Greenpoint Av,1.31,3.24
+406,379-Nassau Av,365-Metropolitan Av,3.13,7.71
+337,38-163 St - Amsterdam Av,35-155 St,1.15,3.41
+337,38-163 St - Amsterdam Av,41-168 St,1.89,5.61
+429,380-Neck Rd,183-Avenue U,1,2.33
+430,380-Neck Rd,428-Sheepshead Bay,2.5,5.81
+365,381-Neptune Av,184-Avenue X,2.03,5.56
+366,381-Neptune Av,458-W 8 St - NY Aquarium,1.5,4.1
+424,382-Nereid Av,460-Wakefield - 241 St,2,4.72
+436,382-Nereid Av,75-233 St,1.5,3.44
+1289,383-Nevins St,174-Atlantic Av - Barclays Ctr,1.5,1.16
+573,383-Nevins St,210-Borough Hall,1.74,3.04
+716,383-Nevins St,328-Hoyt St,1.5,2.09
+501,385-New Lots Av,272-E 105 St,2.32,4.63
+505,385-New Lots Av,359-Livonia Av,1.5,2.97
+391,386-New Lots Av,455-Van Siclen Av,1.5,3.84
+376,387-New Utrecht Av,293-Fort Hamilton Pkwy,2.47,6.57
+376,387-New Utrecht Av,52-18 Av,1.5,3.99
+528,388-Newkirk Av,208-Beverly Rd,1.23,2.33
+527,388-Newkirk Av,285-Flatbush Av - Brooklyn College,2.19,4.16
+430,389-Newkirk Plaza,175-Avenue H,1.23,2.86
+98,389-Newkirk Plaza,246-Church Av,2.58,26.33
+429,389-Newkirk Plaza,256-Cortelyou Rd,1.5,3.5
+98,389-Newkirk Plaza,347-Kings Hwy,4.07,41.53
+389,39-167 St,37-161 St - Yankee Stadium,2.5,6.43
+386,39-167 St,45-170 St,2,5.18
+475,390-Northern Blvd,102-46 St,1.5,3.16
+462,390-Northern Blvd,123-65 St,1.35,2.92
+367,391-Norwood - 205 St,203-Bedford Park Blvd,4,10.9
+344,392-Norwood Av,251-Cleveland St,1.01,2.94
+355,392-Norwood Av,261-Crescent St,1.99,5.61
+6,392-Norwood Av,453-Van Siclen Av,2.5,416.67
+386,393-Nostrand Av,296-Franklin Av,1.7,4.4
+403,393-Nostrand Av,351-Kingston Av,1.59,3.95
+337,394-Nostrand Av,297-Franklin Av,1,2.97
+330,394-Nostrand Av,327-Hoyt - Schermerhorn Sts,5.09,15.42
+338,394-Nostrand Av,350-Kingston - Throop Avs,1.92,5.68
+329,394-Nostrand Av,451-Utica Av,2.46,7.48
+429,396-Ocean Pkwy,215-Brighton Beach,2.01,4.69
+430,396-Ocean Pkwy,458-W 8 St - NY Aquarium,2,4.65
+232,398-Ozone Park - Lefferts Blvd,10-111 St,1.4,6.03
+330,399-Park Pl,211-Botanic Garden,1.5,4.55
+330,399-Park Pl,297-Franklin Av,2,6.06
+690,4-103 St - Corona Plaza,342-Junction Blvd,1.02,1.48
+668,4-103 St - Corona Plaza,8-111 St,1,1.5
+14,40-167 St,227-Burnside Av,5,357.14
+452,40-167 St,37-161 St - Yankee Stadium,2.05,4.54
+438,40-167 St,44-170 St,1.5,3.42
+716,400-Park Pl,240-Chambers St,1.1,1.54
+716,400-Park Pl,301-Fulton St,2.48,3.46
+458,401-Parkchester,235-Castle Hill Av,1.54,3.36
+39,401-Parkchester,331-Hunts Point Av,5.69,145.9
+515,401-Parkchester,437-St Lawrence Av,1.5,2.91
+430,402-Parkside Av,246-Church Av,1.49,3.47
+429,402-Parkside Av,414-Prospect Park,1.75,4.08
+5,403-Parsons Blvd,336-Jamaica - 179 St,3,600
+7,403-Parsons Blvd,344-Kew Gardens - Union Tpke,3.79,541.43
+407,403-Parsons Blvd,43-169 St,5.69,13.98
+405,403-Parsons Blvd,441-Sutphin Blvd,1.42,3.51
+455,404-Pelham Bay Park,225-Buhre Av,2.5,5.49
+436,405-Pelham Pkwy,164-Allerton Av,2.03,4.66
+436,405-Pelham Pkwy,222-Bronx Park East,2.05,4.7
+351,406-Pelham Pkwy,318-Gun Hill Rd,2.7,7.69
+354,406-Pelham Pkwy,371-Morris Park,1.06,2.99
+391,407-Pennsylvania Av,343-Junius St,1.64,4.19
+388,407-Pennsylvania Av,455-Van Siclen Av,1.17,3.02
+528,409-President St,296-Franklin Av,2.91,5.51
+527,409-President St,440-Sterling St,1.25,2.37
+330,41-168 St,28-145 St,3.53,10.7
+337,41-168 St,38-163 St - Amsterdam Av,1.13,3.35
+408,41-168 St,48-175 St,2,4.9
+710,410-Prince St,144-8 St - NYU,1.91,2.69
+711,410-Prince St,229-Canal St,1.82,2.56
+666,412-Prospect Av,332-Intervale Av,1.17,1.76
+677,412-Prospect Av,334-Jackson Av,1.65,2.44
+514,413-Prospect Av,157-9 St,1.96,3.81
+501,413-Prospect Av,78-25 St,1.53,3.05
+527,414-Prospect Park,130-7 Av,3.93,7.46
+330,414-Prospect Park,211-Botanic Garden,3,9.09
+98,414-Prospect Park,246-Church Av,2,20.41
+430,414-Prospect Park,402-Parkside Av,1.51,3.51
+525,415-Queens Plaza,259-Court Sq,1.67,3.18
+354,415-Queens Plaza,335-Jackson Hts - Roosevelt Av,5.63,15.9
+296,415-Queens Plaza,356-Lexington Av/59 St,6.1,20.61
+462,415-Queens Plaza,94-36 St,2,4.33
+733,416-Queensboro Plaza,259-Court Sq,1.52,2.07
+461,416-Queensboro Plaza,356-Lexington Av/59 St,4.57,9.91
+65,416-Queensboro Plaza,472-Woodside - 61 St,5.5,84.62
+668,416-Queensboro Plaza,86-33 St,2.41,3.61
+461,416-Queensboro Plaza,95-39 Av,2,4.34
+338,417-Ralph Av,421-Rockaway Av,1.5,4.44
+337,417-Ralph Av,451-Utica Av,1.51,4.48
+457,418-Rector St,257-Cortlandt St,1.19,2.6
+523,418-Rector St,432-South Ferry,2.14,4.09
+523,418-Rector St,459-WTC Cortlandt,1.01,1.93
+455,418-Rector St,465-Whitehall St,2,4.4
+517,42-168 St - Washington Hts,36-157 St,1.52,2.94
+519,42-168 St - Washington Hts,55-181 St,2,3.85
+388,420-Rockaway Av,343-Junius St,1.02,2.63
+391,420-Rockaway Av,426-Saratoga Av,1.94,4.96
+338,421-Rockaway Av,220-Broadway Jct,4.63,13.7
+337,421-Rockaway Av,417-Ralph Av,1.99,5.91
+464,422-Rockaway Blvd,155-88 St,1.45,3.13
+238,422-Rockaway Blvd,166-Aqueduct - N Conduit Av,4.04,16.97
+234,422-Rockaway Blvd,6-104 St,5.51,23.55
+246,423-Rockaway Park - Beach 116 St,193-Beach 105 St,2.02,8.21
+405,424-Roosevelt Island,357-Lexington Av/63 St,2.5,6.17
+405,424-Roosevelt Island,65-21 St - Queensbridge,2.41,5.95
+388,426-Saratoga Av,420-Rockaway Av,1.83,4.72
+391,426-Saratoga Av,444-Sutter Av - Rutland Rd,1.56,3.99
+419,427-Seneca Av,291-Forest Av,1.06,2.53
+415,427-Seneca Av,376-Myrtle - Wyckoff Avs,1.58,3.81
+528,428-Sheepshead Bay,215-Brighton Beach,2.61,4.94
+98,428-Sheepshead Bay,347-Kings Hwy,4,40.82
+429,428-Sheepshead Bay,380-Neck Rd,2.02,4.71
+338,429-Shepherd Av,283-Euclid Av,1.52,4.5
+337,429-Shepherd Av,454-Van Siclen Av,1.75,5.19
+407,43-169 St,336-Jamaica - 179 St,2,4.91
+405,43-169 St,403-Parsons Blvd,2.01,4.96
+666,430-Simpson St,299-Freeman St,1.52,2.28
+677,430-Simpson St,332-Intervale Av,1.04,1.54
+807,431-Smith - 9 Sts,234-Carroll St,2,2.48
+809,431-Smith - 9 Sts,96-4 Av,1.8,2.22
+523,432-South Ferry,418-Rector St,2.54,4.86
+752,434-Spring St,232-Canal St,1.84,2.45
+752,434-Spring St,457-W 4 St,2,2.66
+602,435-Spring St,209-Bleecker St,1.04,1.73
+605,435-Spring St,229-Canal St,2.08,3.44
+515,437-St Lawrence Av,372-Morrison Av- Sound View,1.52,2.95
+482,437-St Lawrence Av,401-Parkchester,1.54,3.2
+462,439-Steinway St,102-46 St,1.75,3.79
+475,439-Steinway St,94-36 St,2,4.21
+438,44-170 St,374-Mt Eden Av,1.34,3.06
+452,44-170 St,40-167 St,1.52,3.36
+528,440-Sterling St,409-President St,1.28,2.42
+527,440-Sterling St,468-Winthrop St,1.5,2.85
+405,441-Sutphin Blvd,214-Briarwood - Van Wyck Blvd,2,4.94
+407,441-Sutphin Blvd,403-Parsons Blvd,4.96,12.19
+350,442-Sutphin Blvd - Archer Av - JFK Airport,15-121 St,4,11.43
+408,442-Sutphin Blvd - Archer Av - JFK Airport,337-Jamaica - Van Wyck,2.48,6.08
+768,442-Sutphin Blvd - Archer Av - JFK Airport,338-Jamaica Center - Parsons/Archer,1.54,2.01
+7,442-Sutphin Blvd - Archer Av - JFK Airport,9-111 St,5,714.29
+505,443-Sutter Av,173-Atlantic Av,1.5,2.97
+501,443-Sutter Av,359-Livonia Av,1.13,2.26
+391,444-Sutter Av - Rutland Rd,262-Crown Hts - Utica Av,3.05,7.8
+388,444-Sutter Av - Rutland Rd,426-Saratoga Av,1.52,3.92
+819,445-Times Sq - 42 St,104-49 St,1.71,2.09
+733,445-Times Sq - 42 St,105-5 Av,1.5,2.05
+581,445-Times Sq - 42 St,110-50 St,2,3.44
+374,445-Times Sq - 42 St,116-57 St - 7 Av,2.96,7.91
+727,445-Times Sq - 42 St,133-72 St,4.1,5.64
+646,445-Times Sq - 42 St,309-Grand Central - 42 St,1.5,2.32
+733,445-Times Sq - 42 St,88-34 St - 11 Av,3.59,4.9
+1193,445-Times Sq - 42 St,89-34 St - Herald Sq,1.75,1.47
+1239,445-Times Sq - 42 St,90-34 St - Penn Station,1.24,1
+21,448-Tremont Av,290-Fordham Rd,2.64,125.71
+21,448-Tremont Av,30-145 St,8.36,398.1
+389,448-Tremont Av,47-174-175 Sts,1.5,3.86
+383,448-Tremont Av,56-182-183 Sts,1.5,3.92
+386,449-Union Sq - 14 St,120-6 Av,1.5,3.89
+386,449-Union Sq - 14 St,82-3 Av,0.83,2.15
+389,45-170 St,39-167 St,2,5.14
+386,45-170 St,47-174-175 Sts,2.03,5.26
+501,450-Union St,157-9 St,1.64,3.27
+514,450-Union St,174-Atlantic Av - Barclays Ctr,2,3.89
+329,451-Utica Av,220-Broadway Jct,3.52,10.7
+337,451-Utica Av,350-Kingston - Throop Avs,1.51,4.48
+330,451-Utica Av,394-Nostrand Av,3.03,9.18
+338,451-Utica Av,417-Ralph Av,2,5.92
+501,452-Van Cortlandt Park - 242 St,76-238 St,1.52,3.03
+350,453-Van Siclen Av,163-Alabama Av,1.49,4.26
+349,453-Van Siclen Av,251-Cleveland St,1.5,4.3
+6,453-Van Siclen Av,392-Norwood Av,2.5,416.67
+337,454-Van Siclen Av,358-Liberty Av,1.52,4.51
+338,454-Van Siclen Av,429-Shepherd Av,1.5,4.44
+388,455-Van Siclen Av,386-New Lots Av,1.35,3.48
+391,455-Van Siclen Av,407-Pennsylvania Av,1,2.56
+733,456-Vernon Blvd - Jackson Av,308-Grand Central - 42 St,4.82,6.58
+733,456-Vernon Blvd - Jackson Av,330-Hunters Point Av,0.89,1.21
+1238,457-W 4 St,221-Broadway-Lafayette St,2.37,1.91
+330,457-W 4 St,232-Canal St,2.6,7.88
+1082,457-W 4 St,25-14 St,2.36,2.18
+767,457-W 4 St,26-14 St,1.68,2.19
+752,457-W 4 St,434-Spring St,1.5,1.99
+466,457-W 4 St,89-34 St - Herald Sq,3,6.44
+796,458-W 8 St - NY Aquarium,255-Coney Island - Stillwell Av,1.5,1.88
+365,458-W 8 St - NY Aquarium,381-Neptune Av,1.5,4.11
+429,458-W 8 St - NY Aquarium,396-Ocean Pkwy,1.5,3.5
+523,459-WTC Cortlandt,240-Chambers St,1.34,2.56
+523,459-WTC Cortlandt,418-Rector St,1.51,2.89
+677,46-174 St,299-Freeman St,2.2,3.25
+666,46-174 St,463-West Farms Sq - E Tremont Av,1.94,2.91
+420,460-Wakefield - 241 St,382-Nereid Av,1.56,3.71
+716,461-Wall St,249-Clark St,4.51,6.3
+716,461-Wall St,301-Fulton St,1.09,1.52
+738,462-Wall St,213-Bowling Green,1.21,1.64
+738,462-Wall St,303-Fulton St,1.46,1.98
+666,463-West Farms Sq - E Tremont Av,275-E 180 St,1.69,2.54
+677,463-West Farms Sq - E Tremont Av,46-174 St,2.01,2.97
+458,464-Westchester Sq - E Tremont Av,368-Middletown Rd,1.5,3.28
+455,464-Westchester Sq - E Tremont Av,475-Zerega Av,1.3,2.86
+424,465-Whitehall St,260-Court St,3.5,8.25
+457,465-Whitehall St,418-Rector St,1.94,4.25
+482,466-Whitlock Av,279-Elder Av,1.65,3.42
+515,466-Whitlock Av,331-Hunts Point Av,2,3.88
+503,467-Wilson Av,228-Bushwick Av - Aberdeen St,1.5,2.98
+505,467-Wilson Av,321-Halsey St,2.29,4.53
+527,468-Winthrop St,247-Church Av,4.09,7.76
+528,468-Winthrop St,440-Sterling St,1.58,2.99
+6,469-Woodhaven Blvd,137-75 St,3,500
+351,469-Woodhaven Blvd,148-85 St - Forest Pkwy,1.85,5.27
+355,469-Woodhaven Blvd,5-104 St,1.5,4.23
+5,469-Woodhaven Blvd,9-111 St,3,600
+386,47-174-175 Sts,448-Tremont Av,3.28,8.5
+389,47-174-175 Sts,45-170 St,2.5,6.43
+462,470-Woodhaven Blvd,122-63 Dr - Rego Park,1.33,2.88
+475,470-Woodhaven Blvd,307-Grand Av - Newtown,1.99,4.19
+439,471-Woodlawn,373-Mosholu Pkwy,2,4.56
+690,472-Woodside - 61 St,112-52 St,1.92,2.78
+668,472-Woodside - 61 St,127-69 St,2,2.99
+65,472-Woodside - 61 St,342-Junction Blvd,4,61.54
+43,472-Woodside - 61 St,416-Queensboro Plaza,5.91,137.44
+415,473-World Trade Center,232-Canal St,2.16,5.2
+405,474-York St,276-East Broadway,3,7.41
+405,474-York St,339-Jay St - MetroTech,1.76,4.35
+455,475-Zerega Av,235-Castle Hill Av,1.03,2.26
+458,475-Zerega Av,464-Westchester Sq - E Tremont Av,1,2.18
+407,48-175 St,41-168 St,2.11,5.18
+408,48-175 St,54-181 St,1.01,2.48
+438,49-176 St,227-Burnside Av,2.31,5.27
+452,49-176 St,374-Mt Eden Av,1.18,2.61
+6,5-104 St,15-121 St,3,500
+350,5-104 St,469-Woodhaven Blvd,1.5,4.29
+349,5-104 St,9-111 St,2,5.73
+368,50-18 Av,140-79 St,1.5,4.08
+368,50-18 Av,61-20 Av,1.5,4.08
+404,51-18 Av,176-Avenue I,1,2.48
+404,51-18 Av,268-Ditmas Av,1.55,3.84
+376,52-18 Av,387-New Utrecht Av,1.5,3.99
+376,52-18 Av,62-20 Av,1.5,3.99
+576,53-18 St,24-14 St,1,1.74
+581,53-18 St,71-23 St,1,1.72
+407,54-181 St,48-175 St,1,2.46
+408,54-181 St,58-190 St,2,4.9
+517,55-181 St,42-168 St - Washington Hts,2.08,4.02
+519,55-181 St,59-191 St,1.5,2.89
+383,56-182-183 Sts,290-Fordham Rd,1.5,3.92
+389,56-182-183 Sts,448-Tremont Av,1.52,3.91
+452,57-183 St,227-Burnside Av,1.5,3.32
+438,57-183 St,289-Fordham Rd,1.16,2.65
+408,58-190 St,270-Dyckman St,4.85,11.89
+407,58-190 St,54-181 St,2,4.91
+519,59-191 St,271-Dyckman St,1.14,2.2
+517,59-191 St,55-181 St,1.5,2.9
+234,6-104 St,10-111 St,1.52,6.5
+232,6-104 St,422-Rockaway Blvd,1.61,6.94
+405,60-2 Av,221-Broadway-Lafayette St,1.5,3.7
+405,60-2 Av,267-Delancey St,1.77,4.37
+368,61-20 Av,186-Bay Pkwy,2.19,5.95
+368,61-20 Av,50-18 Av,1.48,4.02
+376,62-20 Av,187-Bay Pkwy,1.5,3.99
+376,62-20 Av,52-18 Av,1.03,2.74
+517,63-207 St,271-Dyckman St,1.58,3.06
+519,63-207 St,66-215 St,1.5,2.89
+404,64-21 St,258-Court Sq,1.32,3.27
+406,64-21 St,317-Greenpoint Av,2.66,6.55
+405,65-21 St - Queensbridge,335-Jackson Hts - Roosevelt Av,6.05,14.94
+405,65-21 St - Queensbridge,424-Roosevelt Island,2.02,4.99
+514,66-215 St,363-Marble Hill - 225 St,1.53,2.98
+517,66-215 St,63-207 St,1,1.93
+436,67-219 St,319-Gun Hill Rd,1.66,3.81
+436,67-219 St,68-225 St,1.39,3.19
+436,68-225 St,67-219 St,1.22,2.8
+436,68-225 St,75-233 St,1.2,2.75
+752,69-23 St,25-14 St,1.5,1.99
+752,69-23 St,91-34 St - Penn Station,2.02,2.69
+605,7-110 St,1-103 St,1.03,1.7
+602,7-110 St,13-116 St,1.45,2.41
+711,70-23 St,27-14 St - Union Sq,1.64,2.31
+710,70-23 St,79-28 St,1.11,1.56
+576,71-23 St,53-18 St,1,1.74
+581,71-23 St,80-28 St,1.01,1.74
+605,72-23 St,27-14 St - Union Sq,1.54,2.55
+602,72-23 St,81-28 St,1.03,1.71
+772,73-23 St,26-14 St,1.54,1.99
+767,73-23 St,89-34 St - Herald Sq,1.69,2.2
+517,74-231 St,363-Marble Hill - 225 St,1.5,2.9
+514,74-231 St,76-238 St,3.16,6.15
+436,75-233 St,382-Nereid Av,4.2,9.63
+436,75-233 St,68-225 St,1.2,2.75
+514,76-238 St,452-Van Cortlandt Park - 242 St,1.5,2.92
+517,76-238 St,74-231 St,1.5,2.9
+368,77-25 Av,185-Bay 50 St,4.62,12.55
+368,77-25 Av,186-Bay Pkwy,1.54,4.18
+514,78-25 St,413-Prospect Av,1.52,2.96
+501,78-25 St,93-36 St,1.61,3.21
+711,79-28 St,70-23 St,1.33,1.87
+710,79-28 St,89-34 St - Herald Sq,1.01,1.42
+668,8-111 St,366-Mets - Willets Point,2.89,4.33
+690,8-111 St,4-103 St - Corona Plaza,1.01,1.46
+576,80-28 St,71-23 St,1,1.74
+581,80-28 St,90-34 St - Penn Station,1.4,2.41
+605,81-28 St,72-23 St,1.01,1.67
+602,81-28 St,87-33 St,1.01,1.68
+386,82-3 Av,0-1 Av,1.43,3.7
+386,82-3 Av,449-Union Sq - 14 St,1.78,4.61
+558,83-3 Av - 138 St,16-125 St,3.03,5.43
+491,83-3 Av - 138 St,223-Brook Av,1.5,3.05
+63,83-3 Av - 138 St,331-Hunts Point Av,8.07,128.1
+44,84-3 Av - 149 St,275-E 180 St,12.06,274.09
+710,84-3 Av - 149 St,32-149 St - Grand Concourse,2.69,3.79
+666,84-3 Av - 149 St,334-Jackson Av,2.12,3.18
+461,85-30 Av,171-Astoria Blvd,1.25,2.71
+461,85-30 Av,219-Broadway,1.5,3.25
+690,86-33 St,416-Queensboro Plaza,2.94,4.26
+668,86-33 St,97-40 St,1.11,1.66
+602,87-33 St,310-Grand Central - 42 St,2.28,3.79
+605,87-33 St,81-28 St,1.02,1.69
+733,88-34 St - 11 Av,445-Times Sq - 42 St,3.09,4.22
+482,89-34 St - Herald Sq,27-14 St - Union Sq,2.93,6.08
+1193,89-34 St - Herald Sq,445-Times Sq - 42 St,1.59,1.33
+466,89-34 St - Herald Sq,457-W 4 St,3.01,6.46
+772,89-34 St - Herald Sq,73-23 St,1.69,2.19
+711,89-34 St - Herald Sq,79-28 St,1,1.41
+1233,89-34 St - Herald Sq,98-42 St - Bryant Pk,1.52,1.23
+349,9-111 St,15-121 St,1.8,5.16
+5,9-111 St,442-Sutphin Blvd - Archer Av - JFK Airport,5,1000
+7,9-111 St,469-Woodhaven Blvd,3,428.57
+344,9-111 St,5-104 St,2,5.81
+663,90-34 St - Penn Station,24-14 St,2.72,4.1
+1239,90-34 St - Penn Station,445-Times Sq - 42 St,1.26,1.02
+576,90-34 St - Penn Station,80-28 St,1.32,2.29
+330,91-34 St - Penn Station,25-14 St,2.62,7.94
+752,91-34 St - Penn Station,69-23 St,1.71,2.27
+1082,91-34 St - Penn Station,99-42 St - Port Authority Bus Terminal,1.38,1.28
+461,92-36 Av,219-Broadway,1.75,3.8
+461,92-36 Av,95-39 Av,1,2.17
+466,93-36 St,100-45 St,2.13,4.57
+268,93-36 St,117-59 St,3.51,13.1
+368,93-36 St,156-9 Av,4,10.87
+587,93-36 St,174-Atlantic Av - Barclays Ctr,5.21,8.88
+514,93-36 St,78-25 St,1.62,3.15
+475,94-36 St,415-Queens Plaza,2.11,4.44
+462,94-36 St,439-Steinway St,2,4.33
+461,95-39 Av,416-Queensboro Plaza,2.43,5.27
+461,95-39 Av,92-36 Av,1.25,2.71
+809,96-4 Av,128-7 Av,1.53,1.89
+807,96-4 Av,431-Smith - 9 Sts,1.51,1.87
+668,97-40 St,101-46 St,1,1.5
+690,97-40 St,86-33 St,1.46,2.12
+1233,98-42 St - Bryant Pk,103-47-50 Sts - Rockefeller Ctr,1.64,1.33
+1238,98-42 St - Bryant Pk,89-34 St - Herald Sq,1.53,1.24
+752,99-42 St - Port Authority Bus Terminal,109-50 St,1.79,2.38
+330,99-42 St - Port Authority Bus Terminal,119-59 St - Columbus Circle,3.1,9.39
+1082,99-42 St - Port Authority Bus Terminal,91-34 St - Penn Station,1.06,0.98
