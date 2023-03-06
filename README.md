@@ -1,5 +1,7 @@
 US Transit usage analysis
 
+https://medium.com/@ctjong27/zip-area-data-for-us-commute-61d69c60b55e
+
 Projection used in the project is EPSG Projection 4269 - NAD83
 https://epsg.io/4269
 
