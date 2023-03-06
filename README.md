@@ -1,6 +1,6 @@
 US Transit usage analysis
 
-https://medium.com/@ctjong27/zip-area-data-for-us-commute-61d69c60b55e
+https://medium.com/@ctjong27/analysis-of-new-york-city-mta-subway-public-transit-networks-as-a-metric-b407e96c3cc7
 
 Projection used in the project is EPSG Projection 4269 - NAD83
 https://epsg.io/4269
