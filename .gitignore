@@ -120,3 +120,5 @@ data/usa_data/transit_gtfs_data/transit_stops_102005_projection/transit_stops_10
 _archives/2019_data/county_business_profile_data/raw_data/county_business_profile_2019_raw.csv
 _archives/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-acs-zip.csv
 _archives/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_2019_raw.csv
+data/usa_data/*
+data/ny_data/*
