@@ -1,9 +1,0 @@
-https://transitfeeds.com/
-
-https://database.mobilitydata.org/
-
-https://www.bts.gov/national-transit-map/national-transit-map-data-maps-and-apps
-
-below data retrieves all of the national level data
-https://geodata.bts.gov/maps/national-transit-map-routes
-https://geodata.bts.gov/maps/national-transit-map-stops
