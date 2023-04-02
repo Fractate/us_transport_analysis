@@ -92,7 +92,7 @@ qgis_analysis/data/blockgroup_data/ny_2019_acs_block_group_data.csv
 qgis_analysis/data/usa_data/transit_gtfs_data/National_Transit_Map_Routes.zip
 qgis_analysis/data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.csv
 qgis_analysis/data/usa_data/acs_blockgroup_data/2019_acs_block_group_data.xlsx
-nl_analysis/helpers/__pycache__/environment_helper.cpython-39.pyc
+ml_analysis/helpers/__pycache__/environment_helper.cpython-39.pyc
 ml_analysis/helpers/__pycache__/variable_helper.cpython-39.pyc
 **/__pycache__/
 
