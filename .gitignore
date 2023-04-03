@@ -122,3 +122,4 @@ _archives/2019_zip_data/acs_transportation_data/raw_data/2019-5yr-acs-zip.csv
 _archives/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_2019_raw.csv
 qgis_analysis/data/usa_data/*
 qgis_analysis/data/ny_data/*
+geopanda_analysis/data/*
