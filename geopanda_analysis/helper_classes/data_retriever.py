@@ -40,10 +40,11 @@ def retrieve_census_tiger_shapefile_dataframe():
 
     
 # Retrieve Presaved networkx results
-def retrieve_networkx_result():
+def retrieve_networkx_result(file_name):
 
     # Read the networkx_analysis.csv file into a pandas DataFrame
-    networkx_df = pd.read_csv("./data/networkx_analysis_results/networkx_analysis.csv")
+    networkx_df = pd.read_csv("./data/networkx_analysis_results/"+file_name)
+    # networkx_df = pd.read_csv("./data/networkx_analysis_results/networkx_analysis_with_pop.csv")
 
     # # Convert the networkx_df DataFrame to a geopandas GeoDataFrame and create circles around each station
     # networkx_gdf = gpd.GeoDataFrame(
@@ -66,3 +67,19 @@ def retrieve_networkx_result():
 # Retrieve Presaved Social Explorer NYC Blockgroup data results
 def retrieve_socialexplorer_blockgroup_data():
     return pd.read_csv('./data/socialexplorer_nyc_blockgroup_data/socialexplorer_nyc_blockgroup_data.csv', header=1, delimiter=',')
+
+
+def generate_column_names():
+    df = pd.read_csv('./data/socialexplorer_nyc_blockgroup_data/socialexplorer_nyc_blockgroup_data.csv', header=None, delimiter=',')
+    
+    # Invert the first two rows of df and store the result in a new DataFrame named column_decode
+    column_decode = pd.DataFrame({'definition': df.iloc[0, :], 'key': df.iloc[1, :]})
+
+    # Reset the index of column_decode to use integers as the index
+    column_decode = column_decode.reset_index()
+
+    # Rename the index and column names
+    column_decode = column_decode.rename(columns={'index': 'feature'})
+
+    # Export column_decode to a CSV file named "column_names.csv" in the "data" directory with only the "definition" and "key" columns
+    column_decode.to_csv('./data/socialexplorer_nyc_blockgroup_data/column_names.csv', columns=['definition', 'key'], index=False)
