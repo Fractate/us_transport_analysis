@@ -83,3 +83,41 @@ def generate_column_names():
 
     # Export column_decode to a CSV file named "column_names.csv" in the "data" directory with only the "definition" and "key" columns
     column_decode.to_csv('./data/socialexplorer_nyc_blockgroup_data/column_names.csv', columns=['definition', 'key'], index=False)
+
+# Retrieve Census Tiger Shapefile
+def retrieve_road_data():
+
+    # Set the download URL, file name and folder path
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36005_roads.zip"
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36047_roads.zip"
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36061_roads.zip"
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36081_roads.zip"
+    # url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36085_roads.zip"
+
+    filename = "tl_2019_36005_roads.zip"
+    filename = "tl_2019_36047_roads.zip"
+    filename = "tl_2019_36061_roads.zip"
+    filename = "tl_2019_36081_roads.zip"
+    folder_path = "./data/roads_shapefile"
+
+    # Create the folder if it doesn't exist
+    if not os.path.exists(folder_path):
+        os.mkdir(folder_path)
+
+    # Check if the shapefile exists, otherwise download and unzip it
+    if not os.path.exists(os.path.join(folder_path, "tl_2019_36_bg.shp")):
+        # Download and unzip the shapefile
+        urllib.request.urlretrieve(url, os.path.join(folder_path, filename))
+        with zipfile.ZipFile(os.path.join(folder_path, filename), 'r') as zip_ref:
+            zip_ref.extractall(folder_path)
+
+    # Read the shapefile into a geopandas GeoDataFrame
+    gdf = gpd.read_file(os.path.join(folder_path, "tl_2019_36_bg.shp"))
+
+    # '085' for Staten Island is removed for its lack of GTFS files
+    nyc_counties_fp = ['005', '047', '061', '081'] # FIPS codes for New York City counties
+    nyc_gdf = gdf[gdf['COUNTYFP'].isin(nyc_counties_fp)]
+    nyc_gdf = nyc_gdf.reset_index(drop=True)
+    nyc_gdf['GEOID'] = nyc_gdf['GEOID'].astype('int64')
+
+    return nyc_gdf
