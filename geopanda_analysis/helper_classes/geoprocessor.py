@@ -58,3 +58,13 @@ def aggregate_nyc_census_variable_to_networkx_weight(*variables, networkx_df, ny
     joined_df = pd.merge(networkx_gdf, joined_df, on='station_id')
 
     return joined_df
+
+def reset_networkx_gdf(networkx_df, espg_from, espg_to):
+        
+    # NOTE: Important part here is that network_Gdf is rewritten every time by network_df (without the G)
+    networkx_gdf = gpd.GeoDataFrame(
+        networkx_df,
+        geometry=gpd.points_from_xy(networkx_df.stop_lon, networkx_df.stop_lat),
+        crs=espg_from
+    ).to_crs(espg_to)
+    return networkx_gdf

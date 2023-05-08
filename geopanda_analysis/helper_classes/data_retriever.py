@@ -84,40 +84,65 @@ def generate_column_names():
     # Export column_decode to a CSV file named "column_names.csv" in the "data" directory with only the "definition" and "key" columns
     column_decode.to_csv('./data/socialexplorer_nyc_blockgroup_data/column_names.csv', columns=['definition', 'key'], index=False)
 
-# Retrieve Census Tiger Shapefile
+import requests
+import geopandas as gpd
+import os
+import shutil
+import zipfile
+import os
+import requests
+import zipfile
+import geopandas as gpd
+import pandas as pd
+
 def retrieve_road_data():
 
-    # Set the download URL, file name and folder path
-    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36005_roads.zip"
-    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36047_roads.zip"
-    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36061_roads.zip"
-    url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36081_roads.zip"
-    # url = "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36085_roads.zip"
+    urls = [
+        "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36005_roads.zip",
+        "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36047_roads.zip",
+        "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36061_roads.zip",
+        "https://www2.census.gov/geo/tiger/TIGER2019/ROADS/tl_2019_36081_roads.zip"
+    ]
 
-    filename = "tl_2019_36005_roads.zip"
-    filename = "tl_2019_36047_roads.zip"
-    filename = "tl_2019_36061_roads.zip"
-    filename = "tl_2019_36081_roads.zip"
-    folder_path = "./data/roads_shapefile"
+    # create the output directory if it does not exist
+    output_dir = "./data/road_shapefiles/"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # Create the folder if it doesn't exist
-    if not os.path.exists(folder_path):
-        os.mkdir(folder_path)
+    # download and extract shapefiles
+    shapefiles = []
+    for url in urls:
+        filename = os.path.join(output_dir, os.path.basename(url))  # extract filename from url and join with output directory
+        dirname = os.path.splitext(filename)[0]  # create directory name from filename
 
-    # Check if the shapefile exists, otherwise download and unzip it
-    if not os.path.exists(os.path.join(folder_path, "tl_2019_36_bg.shp")):
-        # Download and unzip the shapefile
-        urllib.request.urlretrieve(url, os.path.join(folder_path, filename))
-        with zipfile.ZipFile(os.path.join(folder_path, filename), 'r') as zip_ref:
-            zip_ref.extractall(folder_path)
+        # skip download if file already exists
+        if os.path.exists(dirname):
+            print(f"Directory {dirname} already exists, skipping extraction.")
+        else:
+            if os.path.exists(filename):
+                print(f"File {filename} already exists, skipping download.")
+            else:
+                print(f"Downloading {filename}...")
+                response = requests.get(url)
+                with open(filename, "wb") as f:
+                    f.write(response.content)
+                print(f"Done downloading {filename}")
 
-    # Read the shapefile into a geopandas GeoDataFrame
-    gdf = gpd.read_file(os.path.join(folder_path, "tl_2019_36_bg.shp"))
+            # extract shapefiles
+            with zipfile.ZipFile(filename, 'r') as zip_ref:
+                for file in zip_ref.namelist():
+                    if file.endswith('.shp') or file.endswith('.shx') or file.endswith('.dbf'):
+                        zip_ref.extract(file, dirname)
 
-    # '085' for Staten Island is removed for its lack of GTFS files
-    nyc_counties_fp = ['005', '047', '061', '081'] # FIPS codes for New York City counties
-    nyc_gdf = gdf[gdf['COUNTYFP'].isin(nyc_counties_fp)]
-    nyc_gdf = nyc_gdf.reset_index(drop=True)
-    nyc_gdf['GEOID'] = nyc_gdf['GEOID'].astype('int64')
+        # add shapefile path to list
+        shapefile_path = os.path.join(dirname, f"tl_2019_{os.path.basename(dirname).split('_')[2]}_roads.shp")
+        shapefiles.append(shapefile_path)
 
-    return nyc_gdf
+    # combine shapefiles into a single GeoDataFrame
+    gdf = gpd.GeoDataFrame(pd.concat([gpd.read_file(shpfile) for shpfile in shapefiles], ignore_index=True), crs=gpd.read_file(shapefiles[0]).crs)
+
+    # filter out s1100 and s1200 from MTFCC to keep roads local
+    mtfcc_filter = ~gdf['MTFCC'].isin(['S1100', 'S1200'])
+    gdf_filtered = gdf[mtfcc_filter]
+    
+    return gdf_filtered

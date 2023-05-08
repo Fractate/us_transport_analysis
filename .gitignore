@@ -123,3 +123,5 @@ _archives/2019_zip_data/zip_business_profile_data/raw_data/zip_business_profile_
 qgis_analysis/data/usa_data/*
 qgis_analysis/data/ny_data/*
 geopanda_analysis/data/*
+geopanda_analysis/exports_to_tableau/melted_df.geojson
+geopanda_analysis/exports_to_tableau/us_census_data_melted_df.geojson
