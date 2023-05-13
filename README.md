@@ -6,7 +6,7 @@ Public transportation plays a vital role in urban development and sustainability
 ### Layout of the repository
 - **./ml_analysis/** : Exploratory US Census Data ML Analysis
 - **./qgis_analysis/** : QGis analysis and according shapefiles
-- **./geopanda_analysis/** : Full Geospatial data analysis, XGBoost machine learning & OLS Linear regression analysis
+- **./geopanda_analysis/subway_analysis_pipeline_weighed.ipynb** : Full Geospatial data analysis, XGBoost machine learning & OLS Linear regression analysis
  - data retrieval and cleanup is all contained within **./geopanda_analysis/** as a standalone project unrelated to other folders
  - MTA GTFS schedule feed is parsed into daily schedules through the software found at https://github.com/ctjong27/gtfs_to_nodes_and_edges
 
