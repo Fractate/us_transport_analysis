@@ -14,4 +14,6 @@ Public transportation plays a vital role in urban development and sustainability
 ### Link to High Level Analysis and Full Thesis Paper
 https://musingcj.com/#mta_analysis
 
+<hr>
+
 ![Screenshot](./images/choropleth_maps.png)
